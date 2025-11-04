@@ -1,0 +1,26 @@
+<header class="site-header">
+  <div class="nav-wrapper">
+    <!-- Logo -->
+    <a href="{{ '/' | relative_url }}" class="logo">
+      <img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="Faith Frontier Ecclesiastical Trust Logo" />
+    </a>
+
+    <!-- Mobile nav toggle -->
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      ☰
+    </button>
+
+    <!-- Navigation -->
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul>
+        <li><a href="{{ '/faith/' | relative_url }}">Faith</a></li>
+        <li><a href="{{ '/court/' | relative_url }}">Court</a></li>
+        <li><a href="{{ '/public-trust/' | relative_url }}">Public Trust</a></li>
+        <li><a href="{{ '/cases/' | relative_url }}">Cases</a></li>
+      </ul>
+    </nav>
+
+    <!-- Theme toggle button -->
+    <button class="theme-toggle" aria-label="Toggle dark mode">🌓</button>
+  </div>
+</header>

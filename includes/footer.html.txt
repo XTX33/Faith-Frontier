@@ -1,0 +1,9 @@
+<footer class="site-footer">
+  <p>
+    Faith Frontier Ecclesiastical Trust maintains this portal to document real cases,
+    promote transparency, and encourage faithful stewardship of public power.
+  </p>
+  <p class="tiny">
+    © {{ site.time | date: "%Y" }} Faith Frontier Ecclesiastical Trust — Educational and ministry use only.
+  </p>
+</footer>

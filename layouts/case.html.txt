@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main id="main" class="case-page">
+      {% include breadcrumbs.html %}
+      <article>
+        <header class="case-header">
+          <h1>{{ page.title }}</h1>
+          <dl class="case-meta">
+            <dt>Docket</dt><dd>{{ page.docket }}</dd>
+            <dt>Court</dt><dd>{{ page.court }}</dd>
+            <dt>Judge</dt><dd>{{ page.judge }}</dd>
+            <dt>Status</dt><dd>{{ page.status }}</dd>
+          </dl>
+          {% if page.public_trust_tags %}
+          <div class="case-tags">
+            {% for tag in page.public_trust_tags %}
+              <span class="tag-pill">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </header>
+
+        {{ content }}
+
+        {% include case-next.html %}
+      </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

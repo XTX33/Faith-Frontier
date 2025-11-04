@@ -1,0 +1,10 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a> ›
+  {% if page.collection == 'cases' %}
+    <a href="{{ '/court/' | relative_url }}">Court</a> ›
+    <a href="{{ '/cases/' | relative_url }}">Cases</a> ›
+  {% elsif page.collection == 'essays' %}
+    <a href="{{ '/faith/' | relative_url }}">Faith</a> ›
+  {% endif %}
+  <span>{{ page.short_title | default: page.title }}</span>
+</nav>
