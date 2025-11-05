@@ -1,0 +1,57 @@
+- id: barber-nj-2015-09-indictment
+  title: "State v. Barber – Indictment & Conviction"
+  court: "Superior Court of New Jersey, Law Division – Atlantic County"
+  docket: "15-09-XXXX"
+  status: "Post-conviction litigation pending"
+  filed_date: "2015-09-01"
+  next_event: "PCR briefing"
+  next_date: "2025-02-15"
+  summary: >
+    Criminal prosecution arising in Atlantic County. This record tracks the indictment,
+    judgment of conviction, sentencing, and subsequent post-conviction applications.
+
+  documents:
+    - label: "Judgment of Conviction (Redacted)"
+      type: "joc"
+      url: "/assets/cases/barber-nj-2015-09-indictment/2016-nj-super-law-atlantic-state-v-barber-joc-public-redacted.pdf"
+    - label: "Sentencing Order (Redacted)"
+      type: "sentencing-order"
+      url: "/assets/cases/barber-nj-2015-09-indictment/2016-nj-super-law-atlantic-state-v-barber-sentencing-order-public-redacted.pdf"
+
+- id: barber-nj-pcr-2024
+  title: "State v. Barber – PCR under R. 3:22"
+  court: "Superior Court of New Jersey, Law Division – Atlantic County"
+  docket: "PCR-2024-XXXX"
+  status: "Filed – awaiting decision"
+  filed_date: "2024-11-01"
+  next_event: "State's response due"
+  next_date: "2025-01-10"
+  summary: >
+    Petition for post-conviction relief asserting ineffective assistance of counsel,
+    failure to investigate mitigating evidence, and constitutional violations under
+    the Sixth and Fourteenth Amendments.
+
+  documents:
+    - label: "PCR Petition (Redacted)"
+      type: "pcr-petition"
+      url: "/assets/cases/barber-nj-pcr-2024/2024-nj-super-law-atlantic-state-v-barber-pcr-petition-public-redacted.pdf"
+    - label: "Brief in Support"
+      type: "pcr-brief"
+      url: "/assets/cases/barber-nj-pcr-2024/2024-nj-super-law-atlantic-state-v-barber-pcr-brief-public-redacted.pdf"
+
+- id: barber-nj-appeal-2025
+  title: "State v. Barber – Appeal from PCR"
+  court: "Superior Court of New Jersey, Appellate Division"
+  docket: "A-0000-25"
+  status: "Anticipated"
+  filed_date: "2025-??-??"
+  next_event: ""
+  next_date: ""
+  summary: >
+    Prospective appeal from denial of post-conviction relief. This record will track
+    notices of appeal, appellate briefs, and any published or unpublished opinions.
+
+  documents:
+    - label: "Notice of Appeal"
+      type: "notice-of-appeal"
+      url: "/assets/cases/barber-nj-appeal-2025/2025-nj-super-app-state-v-barber-notice-of-appeal-public.pdf"
