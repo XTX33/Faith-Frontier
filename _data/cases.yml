@@ -1,76 +1,64 @@
-# ------------------------------------------
-# NJTA – Toll / Enforcement / Account Matters
-# ------------------------------------------
+# ==========================================
+#  Faith Frontier – 2025 Civil & Administrative Matters
+# ==========================================
 
-- id: barber-njta
-  title: "Barber – New Jersey Turnpike Authority Matters"
-  court: "To be documented"
+- id: barber-v-njta-2025
+  title: "Barber v. New Jersey Turnpike Authority (NJTA)"
+  court: "To be determined"
   docket: "TBD"
   status: "To be entered"
   summary: >
-    Placeholder for matters involving Devon Tyler Barber and the New Jersey Turnpike Authority
-    (NJTA). This entry will be updated once specific notices, correspondence, or court filings
-    are uploaded and described.
+    Placeholder entry for matters involving Devon Tyler Barber and the New Jersey
+    Turnpike Authority in 2025. This may include toll enforcement disputes,
+    correspondence, or filings for equitable or administrative review.
+    Details will be added after public documents are uploaded.
 
   documents:
-    # Add items here once you upload PDFs under assets/cases/barber-njta/
-    # - label: "NJTA Correspondence – [Short Description]"
-    #   type: "correspondence"
-    #   url: "/assets/cases/barber-njta/2024-[description].pdf"
+    # - label: "Correspondence or Filing"
+    #   type: "document"
+    #   url: "/assets/cases/barber-v-njta-2025/[filename].pdf"
 
-# ------------------------------------------
-# NJMVC – Motor Vehicle / License / Record Matters
-# ------------------------------------------
-
-- id: barber-njmvc
-  title: "Barber – New Jersey Motor Vehicle Commission Matters"
-  court: "To be documented"
+- id: barber-v-njmvc-2025
+  title: "Barber v. New Jersey Motor Vehicle Commission (NJMVC)"
+  court: "To be determined"
   docket: "TBD"
   status: "To be entered"
   summary: >
-    Placeholder for matters involving Devon Tyler Barber and the New Jersey Motor Vehicle
-    Commission (NJMVC). This may include licensing, records, notices, or any related disputes.
-    Details will be filled in after the underlying documents are uploaded.
+    Placeholder entry for 2025 matters involving the New Jersey Motor Vehicle Commission,
+    including issues of license status, record accuracy, or administrative correspondence.
+    Details will be documented once filings or agency responses are added.
 
   documents:
-    # - label: "NJMVC Notice – [Short Description]"
+    # - label: "Agency Notice or Appeal"
     #   type: "notice"
-    #   url: "/assets/cases/barber-njmvc/2024-[description].pdf"
+    #   url: "/assets/cases/barber-v-njmvc-2025/[filename].pdf"
 
-# ------------------------------------------
-# Barber v. Tumelty
-# ------------------------------------------
-
-- id: barber-v-tumelty
-  title: "Barber v. Tumelty"
-  court: "To be documented"
+- id: barber-v-tumelty-2025
+  title: "Barber v. Tumelty et al."
+  court: "To be determined"
   docket: "TBD"
   status: "To be entered"
   summary: >
-    Placeholder for Barber v. Tumelty. This entry will summarize the nature of the dispute,
-    forum, and procedural posture once the complaint and related filings are uploaded and
-    described in more detail.
+    Placeholder entry for the 2025 matter titled Barber v. Tumelty, to be updated
+    once pleadings or correspondence are uploaded. This may involve issues of professional
+    conduct, civil accountability, or related equitable relief.
 
   documents:
-    # - label: "Complaint – Barber v. Tumelty"
+    # - label: "Verified Complaint or Motion"
     #   type: "complaint"
-    #   url: "/assets/cases/barber-v-tumelty/2025-complaint.pdf"
+    #   url: "/assets/cases/barber-v-tumelty-2025/[filename].pdf"
 
-# ------------------------------------------
-# Barber v. CarMax
-# ------------------------------------------
-
-- id: barber-v-carmax
-  title: "Barber v. CarMax"
-  court: "To be documented"
+- id: barber-v-carmax-2025
+  title: "Barber v. CarMax Business Services, LLC"
+  court: "To be determined"
   docket: "TBD"
   status: "To be entered"
   summary: >
-    Placeholder for Barber v. CarMax. This will be updated to reflect the correct court,
-    docket number, and issues in dispute after the underlying documents are added to the
-    repository.
+    Placeholder entry for the 2025 matter involving CarMax Business Services, LLC.
+    To be updated once complaint, correspondence, or administrative responses are filed.
+    Potential subject areas include consumer, title, or financing disputes.
 
   documents:
-    # - label: "Complaint – Barber v. CarMax"
+    # - label: "Complaint or Correspondence"
     #   type: "complaint"
-    #   url: "/assets/cases/barber-v-carmax/2025-complaint.pdf"
+    #   url: "/assets/cases/barber-v-carmax-2025/[filename].pdf"
