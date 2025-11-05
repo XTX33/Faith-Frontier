@@ -3,25 +3,64 @@ layout: default
 ---
 
 <main id="main" class="case-page">
-  {% include breadcrumbs.html %}
 
-  <article class="case">
-    <header class="case-header">
-      <h1>{{ page.title }}</h1>
-      <dl class="case-meta">
-        {% if page.docket %}
-          <dt>Docket</dt><dd>{{ page.docket }}</dd>
-        {% endif %}
-        {% if page.court %}
-          <dt>Court</dt><dd>{{ page.court }}</dd>
-        {% endif %}
-        {% if page.judge %}
-          <dt>Judge</dt><dd>{{ page.judge }}</dd>
-        {% endif %}
+  <!-- Case Jacket Header -->
+  <section class="case-jacket">
+    <header class="case-jacket-header">
+      <p class="case-jurisdiction">
+        {{ page.court }}{% if page.venue %} — {{ page.venue }}{% endif %}
+      </p>
+
+      <div class="case-caption">
+        <div class="case-parties">
+          <div class="party-block">
+            <h1 class="party-name">{{ page.plaintiff | default: "Plaintiff" }}</h1>
+            <p class="party-role">Plaintiff{% if page.co_plaintiffs %} et al.{% endif %}</p>
+          </div>
+
+          <div class="case-versus">v.</div>
+
+          <div class="party-block">
+            <h1 class="party-name">{{ page.defendant | default: "Defendant" }}</h1>
+            <p class="party-role">
+              {% if page.role %}
+                {{ page.role }}
+              {% else %}
+                Defendant
+              {% endif %}
+            </p>
+          </div>
+        </div>
+
+        <aside class="case-metadata">
+          {% if page.docket %}
+            <p><strong>Docket:</strong> {{ page.docket }}</p>
+          {% endif %}
+          {% if page.case_type %}
+            <p><strong>Case Type:</strong> {{ page.case_type }}</p>
+          {% endif %}
+          {% if page.track %}
+            <p><strong>Track:</strong> {{ page.track }}</p>
+          {% endif %}
+          {% if page.filed_date %}
+            <p><strong>Filed:</strong> {{ page.filed_date | date: "%B %-d, %Y" }}</p>
+          {% endif %}
+          {% if page.judge %}
+            <p><strong>Judge:</strong> {{ page.judge }}</p>
+          {% endif %}
+        </aside>
+      </div>
+
+      <div class="case-status-bar">
         {% if page.status %}
-          <dt>Status</dt><dd>{{ page.status }}</dd>
+          <span class="status-label">{{ page.status }}</span>
         {% endif %}
-      </dl>
+        {% if page.next_event and page.next_date %}
+          <span class="status-next">
+            Next: {{ page.next_event }} — {{ page.next_date | date: "%B %-d, %Y" }}
+          </span>
+        {% endif %}
+      </div>
 
       {% if page.public_trust_tags %}
         <div class="case-tags">
@@ -32,10 +71,44 @@ layout: default
       {% endif %}
     </header>
 
-    <section class="case-body">
-      {{ content }}
-    </section>
+    {% if page.summary %}
+      <section class="case-summary">
+        <h2>Summary</h2>
+        <p>{{ page.summary }}</p>
+      </section>
+    {% endif %}
 
-    {% include case-next.html %}
+    {% if page.faith_note %}
+      <section class="case-faith-note">
+        <h3>Faith & Public-Trust Note</h3>
+        <p>{{ page.faith_note }}</p>
+      </section>
+    {% endif %}
+
+    {% if page.documents %}
+      <section class="case-documents">
+        <h3>Filed Documents</h3>
+        <ul>
+          {% assign docs = page.documents | sort: "date" %}
+          {% for doc in docs %}
+            <li>
+              {% if doc.date %}<strong>{{ doc.date | date: "%Y-%m-%d" }}</strong> — {% endif %}
+              {% if doc.path %}
+                <a href="{{ doc.path | relative_url }}">{{ doc.label }}</a>
+              {% else %}
+                {{ doc.label }}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  </section>
+
+  <!-- Narrative Body -->
+  <article class="case-body">
+    {{ content }}
   </article>
+
+  {% include case-next.html %}
 </main>
