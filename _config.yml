@@ -1,7 +1,8 @@
-title: "Faith Frontier Ecclesiastical Trust"
-description: "Public-trust cases, faith reflections, and transparency in New Jersey law."
-baseurl: "" 
-url: "https://yourusername.github.io"
+title: Faith Frontier Ecclesiastical Trust
+description: A public documentation portal uniting law, faith, and transparency — featuring New Jersey case records, public-trust analysis, and moral commentary.
+
+url: "https://faithfrontier.org"   # your real domain
+baseurl: ""                        # leave empty for custom domains
 
 collections:
   cases:
@@ -10,6 +11,11 @@ collections:
   essays:
     output: true
     permalink: /faith/:slug/
+
+# optional helpful defaults
+markdown: kramdown
+permalink: /:title/
+timezone: America/New_York
 
 defaults:
   - scope:
@@ -26,3 +32,4 @@ defaults:
       section: faith
 markdown: kramdown
 theme: minima
+
