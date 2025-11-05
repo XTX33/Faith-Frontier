@@ -1,8 +1,11 @@
 title: Faith Frontier Ecclesiastical Trust
 description: A public documentation portal uniting law, faith, and transparency — featuring New Jersey case records, public-trust analysis, and moral commentary.
 
-url: "https://faithfrontier.org"   # your real domain
-baseurl: ""                        # leave empty for custom domains
+url: "https://faithfrontier.org"
+baseurl: ""   # custom domain = empty
+
+# DO NOT set "theme: ..." here – we are using our own layouts
+# theme: minima  <-- if you have this, remove it
 
 collections:
   cases:
@@ -12,24 +15,6 @@ collections:
     output: true
     permalink: /faith/:slug/
 
-# optional helpful defaults
 markdown: kramdown
 permalink: /:title/
 timezone: America/New_York
-
-defaults:
-  - scope:
-      path: ""
-      type: "cases"
-    values:
-      layout: case
-      status: Active
-  - scope:
-      path: ""
-      type: "essays"
-    values:
-      layout: essay
-      section: faith
-markdown: kramdown
-theme: minima
-
