@@ -5,12 +5,76 @@ permalink: /archives/ecclesiastical-deed-poll/
 ---
 
 <section class="section-intro">
-  <h1>Ecclesiastical Deed Poll Archive</h1>
+  <h1>Ecclesiastical Deed Poll (EDP)</h1>
   <p class="section-lead">
-    This archive preserves the public text, commentary, and related instruments
-    connected to the <strong>Ecclesiastical Deed Poll</strong> of the Faith Frontier
-    Ecclesiastical Trust.
+    A foundational spiritual and legal declaration drafted to protest breaches of
+    public trust, assert divine custodianship, and call civil authorities back to
+    conscience under God.
   </p>
+  <p class="text-muted">
+    This page provides a high-level overview and key excerpts. The full original
+    text is preserved in a separate archive entry.
+  </p>
+</section>
+
+<section class="case-page">
+  <article class="card">
+    <h2>What the EDP Is (and Is Not)</h2>
+    <p>
+      The Ecclesiastical Deed Poll is a <strong>theological protest and
+      conscience declaration</strong>. It speaks to:
+    </p>
+    <ul>
+      <li>Divine ownership of life, body, labor, and soul;</li>
+      <li>Historic trust language around the Constitution and “posterity”;</li>
+      <li>Objections to exploitation through opaque financial and legal systems;</li>
+      <li>An appeal to equity, clean hands, and genuine due process.</li>
+    </ul>
+    <p class="text-muted">
+      It is <strong>not</strong> legal advice, nor a magic remedy. It is part of a
+      larger record of prayer, protest, and testimony.
+    </p>
+  </article>
+
+  <article class="card">
+    <h2>Key Themes &amp; Excerpts</h2>
+    <p>
+      The EDP weaves Scripture, trust-law concepts, and protest language together.
+      Central themes include:
+    </p>
+    <ul>
+      <li>
+        The confession that <em>“Before Abraham was, I AM”</em> and that every
+        human person bears the imprint of the Creator.
+      </li>
+      <li>
+        A view of the Constitution’s Preamble as a kind of public-trust indenture
+        in favor of the people and their “posterity.”
+      </li>
+      <li>
+        Objections to coercive registration, concealed contracts, and the
+        monetization of birth and baptism records.
+      </li>
+      <li>
+        A call to dissolve false presumptions and restore rightful status as
+        living beneficiaries, not chattel.
+      </li>
+    </ul>
+  </article>
+
+  <article class="card">
+    <h2>How It Relates to Current Work</h2>
+    <p>
+      Today, the Ecclesiastical Deed Poll stands as a <strong>historic marker</strong>:
+      an early attempt to name the breach of trust between public institutions and
+      the people they serve. It informs newer efforts like:
+    </p>
+    <ul>
+      <li>Faith Frontier’s case documentation and public-trust education;</li>
+      <li>Private Ecclesiastical Due Process (EDP) archives and notices;</li>
+      <li>Teaching on conscience, status, and stewardship under Christ’s kingship.</li>
+    </ul>
+  </article>
 <style>
   /* Modernized Robin Egg Blue CTA Section */
   .cta-section {
