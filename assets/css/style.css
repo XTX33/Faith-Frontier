@@ -496,3 +496,89 @@
 .bg-success { background: #1e9e54; }
 .bg-secondary { background: #6c757d; }
 .bg-dark { background: #444; }
+/* Faith Frontier header nav */
+
+.site-header {
+  border-bottom: 1px solid var(--border-color, #e5e7eb);
+  background: var(--bg-body, #ffffff);
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.25rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.site-logo {
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--text-main, #111827);
+}
+
+.ff-nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.ff-nav a {
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: var(--text-main, #111827);
+}
+
+.ff-nav a:hover {
+  text-decoration: underline;
+}
+
+.ff-nav-toggle {
+  display: none; /* hidden on desktop */
+  border: none;
+  background: transparent;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* Screen-reader only text */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .nav-inner {
+    flex-wrap: wrap;
+  }
+
+  .ff-nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+  }
+
+  .ff-nav {
+    width: 100%;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+
+    /* hidden by default on mobile */
+    display: none;
+  }
+
+  .ff-nav.ff-nav--open {
+    display: flex; /* show when toggled */
+  }
+}
