@@ -2,6 +2,7 @@
 layout: default
 title: "Public-Trust Cases"
 permalink: /public-trust/
+description: "Cases where New Jersey agencies, tolls, data, and penalties raise deeper questions about fairness, transparency, and public saftey."
 ---
 
 <section class="section-intro">
@@ -72,3 +73,4 @@ permalink: /public-trust/
     {% endfor %}
   {% endif %}
 </section>
+
