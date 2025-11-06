@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Archives"
+description: "Historical and ecclesiastical materials that inform the Faith Frontier project, preserved for context and research."
 ---
 
 # Ecclesiastical & Historical Archives
