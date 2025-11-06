@@ -1,15 +1,19 @@
 <!doctype html>
 <html lang="en">
   {% include head.html %}
-  <body>
+
+  <body class="ff-body">
     <a class="skip-link" href="#main">Skip to content</a>
 
     {% include header.html %}
 
-    <main id="main">
+    <main id="main" role="main" tabindex="-1">
       {{ content }}
     </main>
 
     {% include footer.html %}
+
+    <!-- Core behavior: nav, smooth scroll, timelines, etc. -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
   </body>
 </html>
