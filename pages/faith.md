@@ -2,6 +2,7 @@
 layout: default
 title: "Faith & Doctrine"
 permalink: /faith/
+description: "Faith Frontier’s reflections on conscience, stewardship, and justice in New Jersey, written from a Christian, working-class perspective."
 ---
 
 <section class="section-intro">
