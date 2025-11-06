@@ -2,6 +2,7 @@
 layout: default
 title: "Live Dockets & Explanations"
 permalink: /live-dockets/
+description: "Current New Jersey cases with upcoming dates, explained in everyday language with links to official dockets and filings."
 ---
 
 <section class="section-intro">
@@ -79,3 +80,4 @@ permalink: /live-dockets/
     {% endfor %}
   {% endif %}
 </section>
+
