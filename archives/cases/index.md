@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Archived Case Dockets"
+description: "Older state and federal case dockets involving Devon Tyler Barber, archived to show the broader pattern behind Faith Frontier."
 ---
 
 <h1>Archived Case Dockets</h1>
