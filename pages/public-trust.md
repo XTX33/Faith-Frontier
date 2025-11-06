@@ -2,7 +2,7 @@
 layout: default
 title: "Public-Trust Cases"
 permalink: /public-trust/
-description: "Cases where New Jersey agencies, tolls, data, and penalties raise deeper questions about fairness, transparency, and public saftey."
+description: "Cases where New Jersey agencies, tolls, data, and penalties raise deeper questions about fairness and public trust."
 ---
 
 <section class="section-intro">
@@ -10,12 +10,12 @@ description: "Cases where New Jersey agencies, tolls, data, and penalties raise 
   <p class="section-lead">
     Some matters do more than resolve private disputes — they reveal how public
     power treats the people it serves. These are the cases where tolls, data,
-    penalties, and procedure raise deeper questions about public trust.
+    licenses, penalties, or procedure raise deeper questions about public trust.
   </p>
   <p class="text-muted">
     Public-trust cases are tagged not just because they involve a government
-    agency, but because they highlight issues of fairness, transparency, and
-    stewardship of authority.
+    agency, but because they highlight fairness, transparency, or stewardship
+    of authority in a way that others might recognize in their own lives.
   </p>
 </section>
 
@@ -73,4 +73,3 @@ description: "Cases where New Jersey agencies, tolls, data, and penalties raise 
     {% endfor %}
   {% endif %}
 </section>
-
