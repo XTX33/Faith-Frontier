@@ -77,20 +77,23 @@
 /* Mobile behavior */
 
 @media (max-width: 768px) {
-  .site-nav {
-    position: absolute;
-    inset: 100% 0 auto 0; /* directly under header */
-    background: var(--brand-dark);
-    border-top: 1px solid rgba(255, 255, 255, 0.12);
-    display: block;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.25s ease;
-  }
+.site-nav {
+  position: fixed;
+  inset-block-start: 0;
+  inset-inline: 0;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  transform: translateY(-100%);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
 
-  .site-nav.open {
-    max-height: 260px; /* enough space for links */
-  }
+.site-nav.is-open {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
 
   .site-nav ul {
     flex-direction: column;
