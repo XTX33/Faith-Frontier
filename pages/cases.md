@@ -2,6 +2,7 @@
 layout: default
 title: "Case Records"
 permalink: /cases/
+description: "Index of active and archived Faith Frontier case records, including New Jersey appeals, PCR filings, and civil matters."
 ---
 
 <section class="section-intro">
