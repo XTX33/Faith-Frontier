@@ -1,33 +1,24 @@
 <header class="site-header">
-  <a class="skip-link" href="#main">Skip to content</a>
-
-  <div class="nav-wrapper">
-    <!-- Logo -->
-    <a class="logo" href="{{ '/' | relative_url }}">
-      <img
-        src="{{ '/assets/img/logo.png' | relative_url }}"
-        alt="Faith Frontier Ecclesiastical Trust"
-        loading="lazy"
-      >
+  <div class="site-header-inner">
+    <a class="site-logo" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/faithfrontier-logo.png' | relative_url }}"
+           alt="Faith Frontier logo">
     </a>
 
-    <!-- Hamburger button -->
-    <button class="nav-toggle"
-            type="button"
-            aria-label="Toggle navigation"
-            aria-expanded="false">
-      &#9776;
+    <button class="nav-toggle" type="button" aria-label="Toggle navigation">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
     </button>
 
-    <!-- Main Navigation -->
-    <nav class="site-nav" aria-label="Primary navigation">
+    <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/faith/' | relative_url }}">Faith</a></li>
         <li><a href="{{ '/cases/' | relative_url }}">Cases</a></li>
-        <li><a href="{{ '/court/' | relative_url }}">Court &amp; Records</a></li>
-        <li><a href="{{ '/faith/' | relative_url }}">Faith &amp; Doctrine</a></li>
-        <li><a href="{{ '/essays/' | relative_url }}">Essays</a></li>
-        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        <li><a href="{{ '/court/' | relative_url }}">Court</a></li>
+        <li><a href="{{ '/public-trust/' | relative_url }}">Public Trust</a></li>
+        <li><a href="{{ '/archives/' | relative_url }}">Archives</a></li>
       </ul>
     </nav>
   </div>
