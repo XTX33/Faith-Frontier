@@ -17,6 +17,28 @@ permalink: /faith/
   </p>
 </section>
 
+<!-- Personal story / why this exists -->
+<section class="section-personal-faith">
+  <h2>Why Faith Frontier Exists</h2>
+  <p>
+    I’ve been political and opinionated since eighteen, but underneath all the motions and
+    case numbers is something simpler: I believe God cares how we treat each other — in
+    business, in court, and in love.
+  </p>
+  <p>
+    My own record was shaped by fear, money, and misapplied charges. I’m working out my
+    faith in public: repenting where I was wrong, standing firm where the process was
+    wrong, and trying to build something honest in the middle. I’m a builder by trade,
+    a pro se litigant by necessity, and a man who still hopes for a family and a future
+    in New Jersey.
+  </p>
+  <p>
+    Faith Frontier is where those worlds meet. It’s a place to lay out the paperwork and
+    the prayers side by side, so anyone can see how conscience, Scripture, and law collide
+    in real life — and how mercy and justice are still worth fighting for.
+  </p>
+</section>
+
 <section class="faith-cta-grid">
   <article class="faith-cta-card">
     <h2>Ecclesiastical Deed Poll & Divine Authority</h2>
