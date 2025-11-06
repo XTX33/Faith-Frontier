@@ -14,6 +14,7 @@
       (scope || document).querySelectorAll(selector)
     );
   };
+
   // -----------------------------
   // Mobile navigation toggle
   // -----------------------------
@@ -21,6 +22,7 @@
     var toggle = $('.nav-toggle');
     // Prefer the #site-nav id, fall back to .site-nav if needed
     var nav = document.getElementById('site-nav') || $('.site-nav');
+
     if (!toggle || !nav) return;
 
     // Ensure starting state
@@ -40,6 +42,7 @@
       });
     });
   }
+
   // -----------------------------
   // Highlight active nav item
   // -----------------------------
@@ -84,7 +87,9 @@
 
       evt.preventDefault();
       el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      el.focus({ preventScroll: true });
+      if (typeof el.focus === 'function') {
+        el.focus({ preventScroll: true });
+      }
     });
   }
 
