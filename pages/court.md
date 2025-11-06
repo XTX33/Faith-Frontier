@@ -2,6 +2,7 @@
 layout: default
 title: "Court & Case Transparency"
 permalink: /court/
+description: "Plain-language explanations of real New Jersey court matters involving Devon Tyler Barber and the Faith Frontier Ecclesiastical Trust."
 ---
 
 <section class="section-intro">
