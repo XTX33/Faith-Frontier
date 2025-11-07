@@ -1,12 +1,13 @@
 ---
 title: "Trust Documents & Governance"
 permalink: /trust/
+description: "Foundational documents establishing the Faith Frontier Ecclesiastical Trust and its governance structure."
 ---
 
-<section class="container section">
+<section class="container section" aria-label="Trust documents and governance">
   <h1>Faith Frontier Ecclesiastical Trust</h1>
   <p class="lead">
-    Foundational documents establishing the Faith Frontier Ecclesiastical Trust — its charter,
+    Foundational documents establishing the Faith Frontier Ecclesiastical Trust—its charter,
     bylaws, and governing resolutions of conscience and public accountability.
   </p>
 
@@ -23,8 +24,7 @@ permalink: /trust/
   </ul>
 
   <p>
-    These records define the Trust’s <strong>purpose, governance, and fiduciary obligations</strong> —
-    grounding every case, essay, and research project in an accountable structure that refuses to
+    These records define the Trust’s <strong>purpose, governance, and fiduciary obligations</strong>—grounding every case, essay, and research project in an accountable structure that refuses to
     treat people as disposable.
   </p>
 </section>

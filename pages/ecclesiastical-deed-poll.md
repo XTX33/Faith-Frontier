@@ -4,12 +4,11 @@ title: "Ecclesiastical Deed Poll & Divine Notice"
 permalink: /faith/ecclesiastical-deed-poll/
 ---
 
-<section class="section-intro">
+<section class="section-intro" aria-label="Introduction to the Ecclesiastical Deed Poll">
   <h1>Ecclesiastical Deed Poll & Divine Notice</h1>
   <p class="section-lead">
     A theological declaration and moral protest written in faith.
-    Preserved here for transparency, reflection, and education —
-    not as legal advice or operative law.
+    Preserved here for transparency, reflection, and education—not as legal advice or operative law.
   </p>
   <p class="text-muted">
     <strong>Disclaimer:</strong> This text expresses faith and conscience,
@@ -17,11 +16,10 @@ permalink: /faith/ecclesiastical-deed-poll/
   </p>
 </section>
 
-<section class="essay-body">
+<section class="essay-body" aria-label="Ecclesiastical Deed Poll content">
   <h2>Purpose</h2>
   <p>
-    The Ecclesiastical Deed Poll (EDP) was written as a spiritual covenant —
-    a testament to divine sovereignty and the inherent dignity of humankind.
+    The Ecclesiastical Deed Poll (EDP) was written as a spiritual covenant—a testament to divine sovereignty and the inherent dignity of humankind.
     It stands as a record of faith, not a legal instrument.
   </p>
 
@@ -51,7 +49,6 @@ permalink: /faith/ecclesiastical-deed-poll/
 </details>
 
   <p class="text-muted">
-    <em>“In the beginning was the Word, and the Word was with God, and the Word was God.”</em><br>
-    — John 1:1
+    <em>“In the beginning was the Word, and the Word was with God, and the Word was God.”</em><br>—John 1:1
   </p>
 </section>

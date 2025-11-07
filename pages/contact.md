@@ -5,7 +5,7 @@ permalink: /contact/
 description: "Contact information and correspondence guidelines for Faith Frontier Ecclesiastical Trust."
 ---
 
-<section class="section">
+<section class="section" aria-label="Contact information">
   <h1>Contact</h1>
   <p class="lead">
     Faith Frontier welcomes good-faith correspondence regarding research, case documentation,
@@ -14,8 +14,8 @@ description: "Contact information and correspondence guidelines for Faith Fronti
 
   <h2>Primary Contact</h2>
   <p>
-    📬 <a href="mailto:DTB33@pm.me">DTB33@pm.me</a><br>
-    🌐 <a href="https://faithfrontier.org">faithfrontier.org</a>
+    <strong>Email:</strong> <a href="mailto:DTB33@pm.me">DTB33@pm.me</a><br>
+    <strong>Website:</strong> <a href="https://faithfrontier.org">faithfrontier.org</a>
   </p>
 
   <h2>Mailing Inquiries</h2>
@@ -29,9 +29,9 @@ description: "Contact information and correspondence guidelines for Faith Fronti
 
   <h2>Guidelines</h2>
   <ul>
-    <li>For legal record access: include docket numbers and jurisdiction (state/federal).</li>
-    <li>For media or publication permissions: specify intended use and format.</li>
-    <li>For faith or policy collaboration: summarize your area of work and goals.</li>
+    <li>For legal record access: include docket numbers and jurisdiction (state/federal)</li>
+    <li>For media or publication permissions: specify intended use and format</li>
+    <li>For faith or policy collaboration: summarize your area of work and goals</li>
   </ul>
 
   <h2>Confidentiality</h2>

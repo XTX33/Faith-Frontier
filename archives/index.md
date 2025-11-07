@@ -4,7 +4,7 @@ title: "Archives"
 permalink: /archives/
 ---
 
-<section class="section-intro">
+<section class="section-intro" aria-label="Archives introduction">
   <h1>Archives</h1>
   <p class="section-lead">
     A curated archive of legacy writings, declarations, and long-form teaching
@@ -18,9 +18,9 @@ permalink: /archives/
   </p>
 </section>
 
-<section class="case-list">
+<section class="archive-list" aria-label="Archived documents">
 
-  <article class="case-card">
+  <article class="archive-card">
     <header>
       <h2>
         <a href="{{ '/archives/ecclesiastical-deed-poll/' | relative_url }}">
@@ -34,7 +34,7 @@ permalink: /archives/
     </p>
   </article>
 
-  <article class="case-card">
+  <article class="archive-card">
     <header>
       <h2>
         <a href="{{ '/archives/tiller-earth/' | relative_url }}">
@@ -50,7 +50,7 @@ permalink: /archives/
     </p>
   </article>
 
-  <article class="case-card">
+  <article class="archive-card">
     <header>
       <h2>
         <a href="{{ '/archives/thomas-becket-proclamation/' | relative_url }}">
@@ -65,7 +65,7 @@ permalink: /archives/
     </p>
   </article>
 
-  <article class="case-card">
+  <article class="archive-card">
     <header>
       <h2>
         <a href="{{ '/archives/11-banned-foods/' | relative_url }}">

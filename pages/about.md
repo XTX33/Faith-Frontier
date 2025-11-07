@@ -5,26 +5,22 @@ permalink: /about/
 description: "About the mission, origins, and stewardship principles of the Faith Frontier Ecclesiastical Trust."
 ---
 
-<section class="section">
+<section class="section" aria-label="About Faith Frontier Ecclesiastical Trust">
   <h1>About Faith Frontier Ecclesiastical Trust</h1>
   <p class="lead">
-    <strong>Faith Frontier</strong> documents the intersection of law, conscience, and stewardship —
-    preserving public records and moral reasoning as a form of public trust.
+    <strong>Faith Frontier</strong> documents the intersection of law, conscience, and stewardship—preserving public records and moral reasoning as a form of public trust.
   </p>
 
   <h2>Mission</h2>
   <p>
-    The Trust exists to restore integrity and transparency to the civic process, blending
-    legal literacy with theological reflection. Each publication — whether a case record,
-    essay, or reform brief — is meant to illuminate how justice, equity, and mercy can coexist
-    within the same public framework.
+    The Trust exists to restore integrity and transparency to civic processes through the integration of legal literacy and theological reflection. Each publication—case records, essays, and reform briefs—illuminates the interrelation of justice, equity, and mercy within public frameworks.
   </p>
 
   <h2>Origins</h2>
   <p>
     Founded by <strong>Devon Tyler Barber</strong> in New Jersey, Faith Frontier arose from direct
     experience in courtrooms, labor disputes, and public agencies. The project began as a record
-    of personal litigation and evolved into an ecclesiastical trust — a living ministry of evidence,
+    of personal litigation and evolved into an ecclesiastical trust—a living ministry of evidence,
     faith, and reform.
   </p>
 
@@ -44,6 +40,6 @@ description: "About the mission, origins, and stewardship principles of the Fait
   </p>
 
   <p class="text-muted">
-    <em>“Conscience is not bound by office or title — it is bound by truth.”</em>
+    <em>“Conscience is not bound by office or title—it is bound by truth.”</em>
   </p>
 </section>

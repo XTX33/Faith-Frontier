@@ -1,19 +1,24 @@
-<footer class="site-footer">
+<footer class="site-footer" role="contentinfo">
   <div class="container footer-inner">
     <p class="footer-brand">
       &copy; {{ "now" | date: "%Y" }} <strong>{{ site.title }}</strong><br>
       <span class="footer-tagline">{{ site.description }}</span>
     </p>
 
-    <p class="footer-links">
-  <a href="{{ '/license/' | relative_url }}">License & Rights</a> •
-  <a href="{{ '/about/' | relative_url }}">About</a> •
-  <a href="{{ '/contact/' | relative_url }}">Contact</a>
-</p>
+    <nav aria-label="Footer navigation">
+      <p class="footer-links">
+        <a href="{{ '/about/' | relative_url }}">About</a> •
+        <a href="{{ '/contact/' | relative_url }}">Contact</a> •
+        <a href="{{ '/license/' | relative_url }}">License and Rights</a> •
+        <a href="{{ '/privacy/' | relative_url }}">Privacy</a> •
+        <a href="{{ '/accessibility/' | relative_url }}">Accessibility</a>
+      </p>
+    </nav>
 
     <p class="footer-credit text-muted">
       Stewardship • Transparency • Reform • Faith<br>
-      <small><a href="mailto:DTB33@PM.ME">DTB33@PM.ME</a></small>
+      <small>Email: <a href="mailto:DTB33@PM.ME">DTB33@PM.ME</a></small><br>
+      <small>Last updated: {{ "now" | date: "%B %Y" }}</small>
     </p>
   </div>
 </footer>
