@@ -19,7 +19,7 @@ summary: >
   who filed, why, what’s at issue, and current posture. 
   Keep factual, neutral, and reference the legal forum.
 
-# Optional — only include if you want curated labels for specific filings.
+# Optional—only include if you want curated labels for specific filings.
 # If omitted, the layout will automatically list all PDFs found in `assets_path`.
 # Uncomment and edit when ready:
 #
@@ -60,7 +60,7 @@ Use short bullets or numbered items:
 ## Public Filings
 All redacted public filings are listed below automatically from the folder:  
 `{{ page.assets_path }}`  
-Add PDFs to that folder and rebuild — no edits required here.
+Add PDFs to that folder and rebuild—no edits required here.
 
 ## Reflection / Context (Optional)
 If this case connects to a larger pattern of governance, faith, or due process, you can explain it here in plain English for readers.  

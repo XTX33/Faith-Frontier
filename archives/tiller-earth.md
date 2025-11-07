@@ -54,7 +54,7 @@ permalink: /archives/tiller-earth/
 
         <!-- Scripture Anchor -->
         <blockquote style="margin:18px 0;padding:10px 14px;border-left:4px solid #2d4c4f;background:#eae2d6;color:#2a2a2a;font-style:italic">
-          “The stone which the builders refused is become the head of the corner.” — Psalm 118:22
+          “The stone which the builders refused is become the head of the corner.”—Psalm 118:22
         </blockquote>
 
         <!-- Commitment -->
@@ -70,8 +70,7 @@ permalink: /archives/tiller-earth/
         </p>
 
         <!-- Signature + Clarity -->
-        <footer style="margin-top:14px;color:#4c4035">
-          — <strong>Devon Tyler Barber</strong> • <em>Tillerstead LLC · Faith Frontier</em><br>
+        <footer style="margin-top:14px;color:#4c4035">—<strong>Devon Tyler Barber</strong> • <em>Tillerstead LLC · Faith Frontier</em><br>
           <small style="opacity:.85">
             Statement of values and intent based on lived experience and faith convictions.
           </small>
@@ -113,8 +112,7 @@ permalink: /archives/tiller-earth/
         <h3>Escaping Legal Fiction and Returning to Christ’s Authority</h3>
 
         <blockquote>
-          <p>“Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.”<br>
-          — <strong>Revelation 18 : 4, Geneva 1599</strong></p>
+          <p>“Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.”<br>—<strong>Revelation 18 : 4, Geneva 1599</strong></p>
         </blockquote>
 
         <p>
@@ -136,8 +134,7 @@ permalink: /archives/tiller-earth/
         <h4>2&nbsp;&nbsp;Birth-Certificate Bondage</h4>
         <p>
           A birth certificate manufactures an <strong>ALL-CAPS PERSON</strong> separated from the living child.
-          That entity is pledged for debt, taxed by code and sued in admiralty courts—
-          unless the living man or woman <em>reserves all rights</em>.
+          That entity is pledged for debt, taxed by code and sued in admiralty courts—unless the living man or woman <em>reserves all rights</em>.
         </p>
 
         <!-- 3 -->
@@ -152,7 +149,7 @@ permalink: /archives/tiller-earth/
         <!-- 4 -->
         <h4>4&nbsp;&nbsp;The God We Serve Is Not “Cretin”</h4>
         <blockquote>
-          <p>“For God is not the author of confusion, but of peace.” — <strong>1 Cor 14 : 33</strong></p>
+          <p>“For God is not the author of confusion, but of peace.”—<strong>1 Cor 14 : 33</strong></p>
         </blockquote>
         <p>
           “Cretin” signifies defect or ignorance. The Creator is perfect, wise and holy.
@@ -172,15 +169,15 @@ permalink: /archives/tiller-earth/
         <!-- 6 -->
         <h4>6&nbsp;&nbsp;Return to Land &amp; Service</h4>
         <blockquote>
-          <p>“And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.” — <strong>Gen 2 : 15</strong></p>
+          <p>“And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.”—<strong>Gen 2 : 15</strong></p>
         </blockquote>
         <p>
           Stewardship is God’s original assignment. Babylon taxes it; Christ restores it.
         </p>
         <ul>
-          <li>Grow food; share surplus.</li>
-          <li>Teach Scripture, contract law and basic husbandry to family and neighbours.</li>
-          <li>Trade honestly—gold, silver, barter, service—not usury.</li>
+          <li>Grow food; share surplus</li>
+          <li>Teach Scripture, contract law and basic husbandry to family and neighbours</li>
+          <li>Trade honestly—gold, silver, barter, service—not usury</li>
         </ul>
 
         <!-- Final -->
@@ -209,11 +206,11 @@ permalink: /archives/tiller-earth/
       <aside id="first-steps">
         <h5>First Steps</h5>
         <ol>
-          <li>Pray for wisdom (James 1 : 5) and read Revelation 18 aloud.</li>
-          <li>Locate your birth certificate; notice the ALL-CAPS name.</li>
-          <li>Write “Without Prejudice UCC 1-308” on the next form that demands a signature.</li>
-          <li>Begin a private journal: record every silent contract you discover.</li>
-          <li>Find or start a local fellowship committed to land, law and Scripture.</li>
+          <li>Pray for wisdom (James 1 : 5) and read Revelation 18 aloud</li>
+          <li>Locate your birth certificate; notice the ALL-CAPS name</li>
+          <li>Write “Without Prejudice UCC 1-308” on the next form that demands a signature</li>
+          <li>Begin a private journal: record every silent contract you discover</li>
+          <li>Find or start a local fellowship committed to land, law and Scripture</li>
         </ol>
       </aside>
 
@@ -221,10 +218,10 @@ permalink: /archives/tiller-earth/
       <aside id="notes">
         <h5>Notes &amp; Sources</h5>
         <ol>
-          <li>District of Columbia Organic Act, 16 Stat. 419 (1871).</li>
-          <li>28 U.S.C. § 3002 (15)(A) – “United States” defined as a corporation.</li>
+          <li>District of Columbia Organic Act, 16 Stat. 419 (1871)</li>
+          <li>28 U.S.C. § 3002 (15)(A) – “United States” defined as a corporation</li>
           <li>Pope Francis, <em>Fratelli Tutti</em>, 3 Oct 2020.</li>
-          <li>Holy Bible, Geneva 1599 edition for all Scripture citations.</li>
+          <li>Holy Bible, Geneva 1599 edition for all Scripture citations</li>
         </ol>
       </aside>
 
@@ -259,16 +256,16 @@ permalink: /archives/tiller-earth/
         .callout{background:#fcfaee;border:1px solid #e6dca3;padding:1rem;margin:2rem 0}
         footer{margin-top:3rem;font-size:.9rem;color:#555}
       </style>
-      <h1>Build on the Rock — A People’s Guide to Debt &amp; Fiat Tyranny</h1>
-      <blockquote>“Everyone who hears these words of Mine and does them is like a wise man who built his house <strong>on the rock</strong>.”<br>— Jesus, Matthew 7:24</blockquote>
+      <h1>Build on the Rock—A People’s Guide to Debt &amp; Fiat Tyranny</h1>
+      <blockquote>“Everyone who hears these words of Mine and does them is like a wise man who built his house <strong>on the rock</strong>.”<br>—Jesus, Matthew 7:24</blockquote>
       <p><strong>TL;DR</strong>: <em>True freedom</em> is reclaimed when we root our lives in Christ, honest work, and local provision—rejecting usury, fiat illusions, and corporate idols. What follows is a road-map to gather the scattered tribes, restore the land, and live the Kingdom now.</p>
       <hr>
       <h2 id="1-stone">1 · The Stone We Build On</h2>
       <p>[FACT] The New Testament calls Christ the “chief cornerstone” (<cite>Ephesians 2:20</cite>).<br>[INTERPRETATION] In 2025, that cornerstone translates to:</p>
       <ul>
-        <li>Truth over trends.</li>
-        <li>Work you control, land you steward.</li>
-        <li>A table blessed by God, not financed by Mammon.</li>
+        <li>Truth over trends</li>
+        <li>Work you control, land you steward</li>
+        <li>A table blessed by God, not financed by Mammon</li>
       </ul>
       <div class="callout">
         <strong>Reality:</strong> Any claim not anchored in observable Scripture or verifiable history is labeled <code>[INTERPRETATION]</code> or <code>[OPINION]</code>. Receive, test, and build.
@@ -279,14 +276,14 @@ permalink: /archives/tiller-earth/
       <h3>2.2 How Debt Enslaves</h3>
       <ul>
         <li>[FACT] Average U.S. household debt exceeded <abbr title="Federal Reserve Q1 2025">$102 k</abbr> in early 2025.</li>
-        <li>[INTERPRETATION] Inflation operates as a hidden tax—eroding purchasing power without a vote.</li>
+        <li>[INTERPRETATION] Inflation operates as a hidden tax—eroding purchasing power without a vote</li>
         <li>[FACT] Biblical law forbids interest on loans to fellow Israelites (<cite>Deuteronomy 23:19-20</cite>).</li>
       </ul>
       <h2 id="3-roots">3 · Spiritual Roots of Usury &amp; Inflation</h2>
       <p>[OPINION] Usury is a parasite spirit—profit without labor. It mirrors the serpent’s lie: “Gain without sowing.”</p>
       <ul>
-        <li>Usury multiplies fear; fear feeds control.</li>
-        <li>Inflation lets governments and banks repay yesterday’s promises with tomorrow’s devalued labor.</li>
+        <li>Usury multiplies fear; fear feeds control</li>
+        <li>Inflation lets governments and banks repay yesterday’s promises with tomorrow’s devalued labor</li>
       </ul>
       <h2 id="4-homestead">4 · A Christ-Centered Homestead Economy</h2>
       <h3>4.1 Pillars</h3>
@@ -298,9 +295,9 @@ permalink: /archives/tiller-earth/
       </ol>
       <h3>4.2 Practical Steps</h3>
       <ul>
-        <li>Convert 10 % of weekly spending into garden infrastructure.</li>
-        <li>Host monthly “Barn-Raising Sabbaths” for community projects.</li>
-        <li>Switch one bill (energy, phone) to a local co-op or smaller provider within 90 days.</li>
+        <li>Convert 10 % of weekly spending into garden infrastructure</li>
+        <li>Host monthly “Barn-Raising Sabbaths” for community projects</li>
+        <li>Switch one bill (energy, phone) to a local co-op or smaller provider within 90 days</li>
       </ul>
       <h2 id="5-commercial">5 · The Commercialization of Evil (Naming the Giants)</h2>
       <p>We expose, not to shame, but to <em>invite</em> captives into light.</p>
@@ -338,12 +335,12 @@ permalink: /archives/tiller-earth/
       <h2 id="6-invite">6 · Invitation: Gather the Tribes of Israel</h2>
       <p>[INTERPRETATION] Israel today includes every believer grafted into the covenant (<cite>Romans 11</cite>). We gather by:</p>
       <ul>
-        <li>Creating regional homestead networks (“tribal hearths”).</li>
-        <li>Celebrating biblical feasts as family festivals.</li>
-        <li>Setting up “City Gates” — forums for local justice, trade, and counsel.</li>
+        <li>Creating regional homestead networks (“tribal hearths”)</li>
+        <li>Celebrating biblical feasts as family festivals</li>
+        <li>Setting up “City Gates”—forums for local justice, trade, and counsel</li>
       </ul>
       <h2 id="7-repent">7 · A Call to Repentance &amp; Action</h2>
-      <blockquote>“<strong>Come out of her, My people</strong>, lest you share in her sins.” — Revelation 18:4</blockquote>
+      <blockquote>“<strong>Come out of her, My people</strong>, lest you share in her sins.”—Revelation 18:4</blockquote>
       <ol>
         <li><strong>Repent</strong> of trusting fiat more than the Father.</li>
         <li><strong>Release</strong> unnecessary debt; refuse new bondage.</li>
@@ -411,14 +408,14 @@ permalink: /archives/tiller-earth/
 }
       </script>
       <article>
-        <h1>"The Earth Mourneth" — A Wake-Up Call for a Lost Generation</h1>
+        <h1>"The Earth Mourneth"—A Wake-Up Call for a Lost Generation</h1>
         <h2>
           Written in grief and hope, for those suffering in Texas and beyond<br>
           By Devon Tyler of the Paccillo blood, Steward under Faith Frontier Ecclesiastical Trust
         </h2>
         <p>
           <strong>
-            Our prayers are with the people of Texas — the children, the women, the God-fearing men, and even the lost who still wander without light.
+            Our prayers are with the people of Texas—the children, the women, the God-fearing men, and even the lost who still wander without light.
             May mercy visit every soul. May justice rise like morning dew. May this not be in vain.
           </strong>
         </p>
@@ -430,27 +427,26 @@ permalink: /archives/tiller-earth/
               broken the everlasting covenant.”
             </strong>
           </p>
-          <p><cite>— Isaiah 24:4–5, 1599 Geneva Bible</cite></p>
+          <p><cite>—Isaiah 24:4–5, 1599 Geneva Bible</cite></p>
         </blockquote>
         <p>
           These are not just storms. These are spiritual mirrors. Whether sent by God, permitted by Him,
-          or stirred by greedy men through limited liability schemes — the cry is clear: <strong>turn back</strong>.
+          or stirred by greedy men through limited liability schemes—the cry is clear: <strong>turn back</strong>.
         </p>
         <h3>1. Discern the Storm</h3>
         <p>How do we know if something is a sign from the LORD or a scheme of man?</p>
         <ul>
-          <li>God’s signs point to repentance, righteousness, and renewal.</li>
-          <li>Man’s schemes bring profit, confusion, dependence, and fear.</li>
-          <li>Jesus said, <strong>“Ye shall know them by their fruits.”</strong> — <cite>Matthew 7:16, GNV</cite></li>
+          <li>God’s signs point to repentance, righteousness, and renewal</li>
+          <li>Man’s schemes bring profit, confusion, dependence, and fear</li>
+          <li>Jesus said, <strong>“Ye shall know them by their fruits.”</strong>—<cite>Matthew 7:16, GNV</cite></li>
         </ul>
         <p>
-          If tragedy leads us to love, mercy, repentance, and truth — we stand on holy ground.
-          If it leads us to FEMA tents, insurance claims, and state contracts — we are standing in Babylon’s pit.
+          If tragedy leads us to love, mercy, repentance, and truth—we stand on holy ground.
+          If it leads us to FEMA tents, insurance claims, and state contracts—we are standing in Babylon’s pit.
         </p>
         <h3>2. Babylon Profits from the Flood</h3>
         <p>
-          Corporations do not mourn. Governments do not repent. Yet they manage disasters like contracts —
-          with LLCs, federal grants, and public-private partnerships. These are not shepherds. These are merchants of control.
+          Corporations do not mourn. Governments do not repent. Yet they manage disasters like contracts—with LLCs, federal grants, and public-private partnerships. These are not shepherds. These are merchants of control.
         </p>
         <blockquote>
           <p>
@@ -459,23 +455,23 @@ permalink: /archives/tiller-earth/
               I am come that they might have life, and have it in abundance.”
             </strong>
           </p>
-          <p><cite>— John 10:10, GNV</cite></p>
+          <p><cite>—John 10:10, GNV</cite></p>
         </blockquote>
         <p>
           The state sells recovery, but only Christ restores. The world sells insurance, but only the Kingdom provides assurance.
         </p>
         <h3>3. What Was Broken?</h3>
         <ul>
-          <li><strong>“They transgressed the Lawes”</strong> — The Ten Commandments were cast down.</li>
-          <li><strong>“Changed the Ordinances”</strong> — Marriage, life, gender, rest — all inverted by pride.</li>
-          <li><strong>“Broken the Everlasting Covenant”</strong> — Creation’s agreement was violated through violence, greed, and lies.</li>
+          <li><strong>“They transgressed the Lawes”</strong>—The Ten Commandments were cast down.</li>
+          <li><strong>“Changed the Ordinances”</strong>—Marriage, life, gender, rest—all inverted by pride.</li>
+          <li><strong>“Broken the Everlasting Covenant”</strong>—Creation’s agreement was violated through violence, greed, and lies.</li>
         </ul>
         <blockquote>
           <p><strong>“This people honoureth me with their lips, but their heart is far from me.”</strong></p>
-          <p><cite>— Matthew 15:8, GNV</cite></p>
+          <p><cite>—Matthew 15:8, GNV</cite></p>
         </blockquote>
         <p>
-          Let us not blame the land. The earth groans under us — but even now, <strong>God is willing to forgive and rebuild.</strong>
+          Let us not blame the land. The earth groans under us—but even now, <strong>God is willing to forgive and rebuild.</strong>
         </p>
         <h3>4. Christ: The Bridge Back</h3>
         <blockquote>
@@ -485,10 +481,10 @@ permalink: /archives/tiller-earth/
               and ye shall find rest unto your souls.”
             </strong>
           </p>
-          <p><cite>— Matthew 11:28–29, GNV</cite></p>
+          <p><cite>—Matthew 11:28–29, GNV</cite></p>
         </blockquote>
         <p>
-          Christ is not a religion. He is the living covenant. The restorer of the broken path. He does not shame you — He calls you.
+          Christ is not a religion. He is the living covenant. The restorer of the broken path. He does not shame you—He calls you.
         </p>
         <p>
           Through Him, even the most lost can be found. Even the weary worker can be reborn as a steward of righteousness.
@@ -496,31 +492,31 @@ permalink: /archives/tiller-earth/
         <h3>5. Repentance Is the Way Home</h3>
         <p>
           Repentance is not guilt. It is <strong>re-alignment</strong>. A sacred U-turn.
-          Jesus (Yeshua) didn’t come to condemn you — He came to redeem what you forgot was holy:
+          Jesus (Yeshua) didn’t come to condemn you—He came to redeem what you forgot was holy:
           <strong>you, your land, your life, your work.</strong>
         </p>
         <blockquote>
           <p><strong>“Except ye repent, ye shall all likewise perish.”</strong></p>
-          <p><cite>— Luke 13:5, GNV</cite></p>
+          <p><cite>—Luke 13:5, GNV</cite></p>
         </blockquote>
         <ol>
           <li>Say aloud: “Father, I’ve drifted. Help me return.”</li>
-          <li>Turn away from lies — even if it’s one small act today.</li>
-          <li>Touch the ground. Thank it. Steward it.</li>
-          <li>Read Isaiah. Then John. Then Psalms. Hear Him.</li>
-          <li>Build. Forgive. Create. Sow seeds — spiritual and physical.</li>
+          <li>Turn away from lies—even if it’s one small act today</li>
+          <li>Touch the ground. Thank it. Steward it</li>
+          <li>Read Isaiah. Then John. Then Psalms. Hear Him</li>
+          <li>Build. Forgive. Create. Sow seeds—spiritual and physical</li>
         </ol>
-        <p>You are not too far gone. The Shepherd leaves the ninety-nine for one — and <strong>you may be that one today</strong>.</p>
+        <p>You are not too far gone. The Shepherd leaves the ninety-nine for one—and <strong>you may be that one today</strong>.</p>
         <h3>6. Take Back Your Community</h3>
         <p>Jesus didn’t outsource healing to Rome. He sent out His disciples with no bag, no permit, no license. Just truth, prayer, and authority.</p>
         <ul>
-          <li>We must reclaim our food, water, shelter, and justice.</li>
-          <li>We must form trusts, fellowships, and faithful trades — not LLCs of greed.</li>
-          <li>We must build local, lawful, covenant-based stewardship systems — not federal dependence.</li>
+          <li>We must reclaim our food, water, shelter, and justice</li>
+          <li>We must form trusts, fellowships, and faithful trades—not LLCs of greed</li>
+          <li>We must build local, lawful, covenant-based stewardship systems—not federal dependence</li>
         </ul>
         <blockquote>
           <p><strong>“When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.”</strong></p>
-          <p><cite>— Proverbs 29:2, GNV</cite></p>
+          <p><cite>—Proverbs 29:2, GNV</cite></p>
         </blockquote>
         <h3>7. What Is Tiller.Earth?</h3>
         <p>
@@ -528,19 +524,19 @@ permalink: /archives/tiller-earth/
         </p>
         <blockquote>
           <p><strong>“And they shall build the old waste places… and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.”</strong></p>
-          <p><cite>— Isaiah 58:12, 1599 Geneva Bible</cite></p>
+          <p><cite>—Isaiah 58:12, 1599 Geneva Bible</cite></p>
         </blockquote>
         <p>
           We don’t charge to control. We labor to serve. We don’t build to impress. We build to bless.
-          Not for permits. Not for pride. For the Kingdom of Heaven — on earth.
+          Not for permits. Not for pride. For the Kingdom of Heaven—on earth.
         </p>
         <h3>8. If You're Tired, You're Ready</h3>
         <p>
-          If you feel broken, artificial, overwhelmed — good. It means your spirit is still alive. And it’s calling home.
+          If you feel broken, artificial, overwhelmed—good. It means your spirit is still alive. And it’s calling home.
         </p>
         <blockquote>
           <p><strong>“The LORD is nigh unto them that are of a contrite heart: and will save such as be afflicted in spirit.”</strong></p>
-          <p><cite>— Psalm 34:18, GNV</cite></p>
+          <p><cite>—Psalm 34:18, GNV</cite></p>
         </blockquote>
         <p>
           Come walk with us. Come weep with us. Come rebuild something sacred.
@@ -548,7 +544,7 @@ permalink: /archives/tiller-earth/
         </p>
         <p>
           <em>With calloused hands, tear-washed eyes, and a spirit made new,</em><br>
-          <strong>— Devon Tyler of the Paccillo family</strong><br>
+          <strong>—Devon Tyler of the Paccillo family</strong><br>
           Steward, Tiller.Earth and the Faith Frontier Ecclesiastical Trust
         </p>
       </article>
@@ -561,10 +557,10 @@ permalink: /archives/tiller-earth/
     </div>
   </details>
 
- <!-- 4) Bombs Are Not Peaceful — But Neither Is Silence in the Face of Evil -->
+ <!-- 4) Bombs Are Not Peaceful—But Neither Is Silence in the Face of Evil -->
 <details class="archive-post">
   <summary>
-    <span class="archive-title">Bombs Are Not Peaceful — But Neither Is Silence in the Face of Evil</span>
+    <span class="archive-title">Bombs Are Not Peaceful—But Neither Is Silence in the Face of Evil</span>
     <span class="archive-toggle-hint">Click to read / click again to close</span>
     <span class="archive-subtitle">
       On Iran, nuclear escalation, and the narrow path between cowardice and fury.
@@ -573,14 +569,14 @@ permalink: /archives/tiller-earth/
 
   <div class="archive-body">
     <article>
-      <h1>✦ Bombs Are Not Peaceful — But Neither Is Silence in the Face of Evil</h1>
+      <h1>✦ Bombs Are Not Peaceful—But Neither Is Silence in the Face of Evil</h1>
       <p><em>Published on Tiller.Earth | June 23, A.D. 2025</em></p>
 
       <blockquote>“Thanks MAGAts for electing someone so stupid he thinks bombs are peaceful.” – seen on my Facebook feed today…</blockquote>
 
       <p>A brutal reaction. Not uncommon. And not without feeling.</p>
       <p>But at Tiller.Earth, we don’t measure truth by outrage or applause. We measure it by fruit, by root, and by the law of heaven and history alike.</p>
-      <p>So let’s dig beneath the noise — not to take a side, but to <strong>seek understanding</strong>, and maybe, find our footing again in a world tilting toward war.</p>
+      <p>So let’s dig beneath the noise—not to take a side, but to <strong>seek understanding</strong>, and maybe, find our footing again in a world tilting toward war.</p>
 
       <h2>✦ I. What Happened in Iran?</h2>
       <p>On June 21–22, 2025, coordinated strikes by U.S. and Israeli forces targeted <strong>three of Iran’s most fortified nuclear sites</strong>: Fordow, Natanz, and Isfahan (<a href="https://www.iaea.org/newscenter/pressreleases/update-on-developments-in-iran" target="_blank">IAEA press release</a>).</p>
@@ -618,7 +614,7 @@ permalink: /archives/tiller-earth/
         </tr>
       </table>
 
-      <p>According to the <a href="https://www.reuters.com/graphics/IRAN-NUCLEAR/ISRAEL/dwvklgrgjpm/2025-06-18/the-damage-to-iran-nuclear-programme/" target="_blank">IAEA data quoted by Reuters</a>, Iran had already stockpiled more than 400 kg of uranium enriched to <strong>60 %</strong> — perilously close to bomb-grade — before the strikes.</p>
+      <p>According to the <a href="https://www.reuters.com/graphics/IRAN-NUCLEAR/ISRAEL/dwvklgrgjpm/2025-06-18/the-damage-to-iran-nuclear-programme/" target="_blank">IAEA data quoted by Reuters</a>, Iran had already stockpiled more than 400 kg of uranium enriched to <strong>60 %</strong>—perilously close to bomb-grade—before the strikes.</p>
 
       <h2>✦ II. Was This an Act of Peace?</h2>
       <p>No.</p>
@@ -626,23 +622,23 @@ permalink: /archives/tiller-earth/
       <p>This wasn’t warmongering. It was <strong>a strike against the potential for mass murder</strong>, against a regime that:</p>
       <ul>
         <li>Publicly chants “Death to Israel” and “Death to America.”</li>
-        <li>Arms proxies with missiles aimed at schools, hospitals, and markets.</li>
-        <li>Executes dissenters, women, and Christians alike.</li>
-        <li>Blocks IAEA inspections when it suits its aims.</li>
+        <li>Arms proxies with missiles aimed at schools, hospitals, and markets</li>
+        <li>Executes dissenters, women, and Christians alike</li>
+        <li>Blocks IAEA inspections when it suits its aims</li>
       </ul>
 
       <h2>✦ III. Were Any Treaties Broken?</h2>
       <p>Iran is party to the <strong>Nuclear Non-Proliferation Treaty (NPT)</strong>, yet it suspended IAEA “Additional Protocol” access and enriched to 60 % after 2018 (<a href="https://www.iaea.org/newscenter/statements/iaea-director-general-grossis-statement-to-unsc-on-situation-in-iran-20-june-2025" target="_blank">IAEA statement to UNSC</a>).</p>
-      <p>The U.S.-Israel strike lacked UN mandate, yes — but international law often lags existential threats.</p>
+      <p>The U.S.-Israel strike lacked UN mandate, yes—but international law often lags existential threats.</p>
 
       <h2>✦ IV. “Trump Is a Fool,” They Say. “Bombs Don’t Bring Peace.”</h2>
       <p>They’re not wrong to fear war. They’re not wrong to hate destruction.</p>
-      <p>But <strong>peace built on denial is not peace — it’s delay</strong>. The question is larger than any one president:</p>
+      <p>But <strong>peace built on denial is not peace—it’s delay</strong>. The question is larger than any one president:</p>
       <blockquote>Do we allow a sworn enemy of life and liberty to gather the power to vaporize cities… because confrontation makes us uncomfortable?</blockquote>
 
       <h2>✦ V. The Sword and the Plowshare</h2>
       <p>Christ is the Prince of Peace.<br>But He is also the Lamb who returns with a sword.</p>
-      <blockquote>“Think not that I am come to send peace on earth: I came not to send peace, but a sword.”<br>— <em>Matthew 10:34, Geneva Bible (1599)</em>
+      <blockquote>“Think not that I am come to send peace on earth: I came not to send peace, but a sword.”<br>—<em>Matthew 10:34, Geneva Bible (1599)</em>
       </blockquote>
       <p>Truth divides. Justice sometimes arrives with fire.</p>
 
@@ -654,11 +650,11 @@ permalink: /archives/tiller-earth/
       <p>We at Tiller.Earth are not partisans. We are stewards of land, law, language, and truth.</p>
       <p><strong>Peace without justice is slavery; justice without truth is chaos.</strong></p>
 
-      <blockquote>“He shall judge among the nations… they shall beat their swords into mattocks.”<br>— <em>Isaiah 2:4, Geneva Bible (1599)</em>
+      <blockquote>“He shall judge among the nations… they shall beat their swords into mattocks.”<br>—<em>Isaiah 2:4, Geneva Bible (1599)</em>
       </blockquote>
       <p><em>Until that day, we watch, we warn, and we wield truth like a double-edged blade.</em></p>
 
-      <h2>P.S. — For Those Still Unsure</h2>
+      <h2>P.S.—For Those Still Unsure</h2>
       <p>Each claim below links to primary documentation so you can test the roots yourself:</p>
       <ul>
         <li><strong>Nuclear Deception:</strong> Iran curtailed inspections and pushed to 60 % enrichment (<a href="https://www.iaea.org/newscenter/pressreleases/update-on-developments-in-iran" target="_blank">IAEA press release</a>).</li>
@@ -690,37 +686,37 @@ permalink: /archives/tiller-earth/
         <p><em>Trustee, Faith Frontier Ecclesiastical Trust</em></p>
         <blockquote>
           “<strong>Woe unto them that call evil good, and good evil;</strong> that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter.”<br>
-          <span>— Isaiah 5:20, 1599 Geneva Bible</span>
+          <span>—Isaiah 5:20, 1599 Geneva Bible</span>
         </blockquote>
-        <p>I was raised in the house of law and order. My stepfather wore the badge. He carried the weight of the oath, the radio on his hip, the right to detain, the power to accuse. And in that shadow, I was groomed to do the same — to one day become the next man in uniform.</p>
+        <p>I was raised in the house of law and order. My stepfather wore the badge. He carried the weight of the oath, the radio on his hip, the right to detain, the power to accuse. And in that shadow, I was groomed to do the same—to one day become the next man in uniform.</p>
         <p>But I didn’t follow in his footsteps.</p>
         <p>Not out of hate. Not out of laziness. But out of <strong>holy conviction</strong>.</p>
 
         <h2>From Obedience to Awakening</h2>
         <p>As a boy, I played by every rule. I showed up, I stood straight, I smiled on cue. My grades were clean, my record spotless. But beneath that surface was a fire: a hunger for truth, a sense of justice I couldn’t unsee.</p>
-        <p>When I turned eighteen, the world opened and the veil tore. The same government that spoke of liberty was <strong>caging men for herbs</strong> — for the very same plant I used to calm my spirit and connect with the earth: cannabis.</p>
-        <p>My stepfather’s department put shackles on peaceful men. I couldn’t stand behind that. I couldn’t pretend that was justice. I couldn’t turn my back on what I knew was right. So I asked questions — and in asking, I became dangerous to the silence that upheld the system.</p>
+        <p>When I turned eighteen, the world opened and the veil tore. The same government that spoke of liberty was <strong>caging men for herbs</strong>—for the very same plant I used to calm my spirit and connect with the earth: cannabis.</p>
+        <p>My stepfather’s department put shackles on peaceful men. I couldn’t stand behind that. I couldn’t pretend that was justice. I couldn’t turn my back on what I knew was right. So I asked questions—and in asking, I became dangerous to the silence that upheld the system.</p>
 
         <h2>Burdened by Bloodlines</h2>
-        <p>There was always a fear in my family. Not one spoken, but one felt. A fear that I would become like <strong>the men before me</strong> — men whose names still echo in sealed courtrooms and backroom conversations.</p>
+        <p>There was always a fear in my family. Not one spoken, but one felt. A fear that I would become like <strong>the men before me</strong>—men whose names still echo in sealed courtrooms and backroom conversations.</p>
         <p>Frank Materio. Tied to Nicky Scarfo. My uncle. My great-grandfather. Names whispered but never explained. Power that lingered in the blood. History I wasn’t supposed to ask about.</p>
-        <p>So I was steered away. Guided hard. Not for evil — but out of fear. My family, in their love, tried to protect me from becoming “like them.” But fear doesn’t form freedom. It forms <strong>fences</strong>.</p>
+        <p>So I was steered away. Guided hard. Not for evil—but out of fear. My family, in their love, tried to protect me from becoming “like them.” But fear doesn’t form freedom. It forms <strong>fences</strong>.</p>
 
         <h2>The Rebel with a Record</h2>
-        <p>When I finally chose my own path, it wasn’t one of chaos — it was one of <strong>righteous rebellion</strong>. I studied the Constitution. The Geneva Bible. I read court cases and scripture side by side. I questioned authority not to tear it down, but to lift it back into alignment with truth.</p>
-        <p>But the system doesn't forgive curiosity — not when it threatens control. So they labeled me. <strong>Criminal.</strong> Just like they did to prophets, to revolutionaries, to men who refused to kneel to Babylon.</p>
-        <blockquote>“<strong>Have I therefore become your enemy, because I tell you the truth?</strong>” — Galatians 4:16</blockquote>
+        <p>When I finally chose my own path, it wasn’t one of chaos—it was one of <strong>righteous rebellion</strong>. I studied the Constitution. The Geneva Bible. I read court cases and scripture side by side. I questioned authority not to tear it down, but to lift it back into alignment with truth.</p>
+        <p>But the system doesn't forgive curiosity—not when it threatens control. So they labeled me. <strong>Criminal.</strong> Just like they did to prophets, to revolutionaries, to men who refused to kneel to Babylon.</p>
+        <blockquote>“<strong>Have I therefore become your enemy, because I tell you the truth?</strong>”—Galatians 4:16</blockquote>
 
         <h2>My Oath Is Higher</h2>
         <p>I didn’t reject the law. I rejected the lie. I didn’t flee from duty. I accepted a <strong>higher one</strong>.</p>
-        <p>My hands are still trained for work — for tile, for timber, for land. But my soul is aligned with something eternal. I serve not the State, but the Kingdom. I walk not by permission, but by promise. I speak not for approval, but under anointed authority.</p>
+        <p>My hands are still trained for work—for tile, for timber, for land. But my soul is aligned with something eternal. I serve not the State, but the Kingdom. I walk not by permission, but by promise. I speak not for approval, but under anointed authority.</p>
 
         <h2>A New Inheritance</h2>
-        <p>I stand now as a <strong>man of covenant</strong>, of equity, of resurrection. My labor is lawful. My identity is divine. My family name is no longer tied to shadows — it’s rooted in sacred soil.</p>
-        <p>I didn’t follow in my stepdad’s footsteps, because I was born to break a generational spell. Not to dishonor him — but to redeem what he could not.</p>
+        <p>I stand now as a <strong>man of covenant</strong>, of equity, of resurrection. My labor is lawful. My identity is divine. My family name is no longer tied to shadows—it’s rooted in sacred soil.</p>
+        <p>I didn’t follow in my stepdad’s footsteps, because I was born to break a generational spell. Not to dishonor him—but to redeem what he could not.</p>
         <p>I am the living testimony that the bloodline can be cleansed. That the land can be restored. That the name can be redeemed.</p>
-        <blockquote>“<strong>And they shall rebuild the old ruins, and raise up the former desolations... and they shall be called the Repairer of the breach, the Restorer of paths to dwell in.</strong>” — Isaiah 58:12</blockquote>
-        <p>I am not lost. I am <strong>returned</strong>. Not to the system — but to the soil. Not to the badge — but to the Book. Not to the curse — but to the covenant.</p>
+        <blockquote>“<strong>And they shall rebuild the old ruins, and raise up the former desolations... and they shall be called the Repairer of the breach, the Restorer of paths to dwell in.</strong>”—Isaiah 58:12</blockquote>
+        <p>I am not lost. I am <strong>returned</strong>. Not to the system—but to the soil. Not to the badge—but to the Book. Not to the curse—but to the covenant.</p>
 
         <h2>I didn’t follow his footsteps.</h2>
         <p>I forged my own.</p>
@@ -811,10 +807,10 @@ permalink: /archives/tiller-earth/
         <h2>Municipal Corporations: The Business of Law Enforcement</h2>
         <p>All cities and townships in the United States are structured as <strong>municipal corporations</strong>. These corporations:</p>
         <ul>
-          <li>Hold assets and debt.</li>
+          <li>Hold assets and debt</li>
           <li>Enter into contracts, including <strong>insurance bond agreements</strong>.</li>
-          <li>Generate revenue through fines, asset forfeiture, and taxation.</li>
-          <li>Operate courts as administrative tribunals rather than true constitutional courts.</li>
+          <li>Generate revenue through fines, asset forfeiture, and taxation</li>
+          <li>Operate courts as administrative tribunals rather than true constitutional courts</li>
         </ul>
         <p>Police do not uphold constitutional law—they enforce municipal policies that generate revenue.</p>
       </section>
@@ -835,8 +831,8 @@ permalink: /archives/tiller-earth/
         <h2>Constitutional Violations and Legal Loopholes</h2>
         <p>Municipal ordinances are <strong>not laws</strong>; they are corporate policies. Many interactions with police involve:</p>
         <ul>
-          <li>Unlawful ID checks with no reasonable suspicion.</li>
-          <li>Detainment under city ordinances rather than state or federal law.</li>
+          <li>Unlawful ID checks with no reasonable suspicion</li>
+          <li>Detainment under city ordinances rather than state or federal law</li>
           <li>Fines and arrests issued for profit, <strong>not public safety.</strong></li>
         </ul>
         <p>Legal doctrines like <strong>qualified immunity</strong> further insulate officers, making it almost impossible to hold them accountable in court.</p>

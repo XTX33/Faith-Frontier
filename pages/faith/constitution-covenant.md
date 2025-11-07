@@ -5,6 +5,8 @@ permalink: /faith/americas-government/
 description: "A reflection on the United States’ republican structure, its constitutional guarantees, and the balance between democracy and law."
 ---
 
+<section aria-label="America's Government: Constitution and Covenant">
+
 # America’s Government
 
 ## Introduction
@@ -39,3 +41,5 @@ The United States’ system is a deliberate fusion of republican and democratic 
 - Madison, J. (1787). *Federalist No. 10*. In *The Federalist Papers*. [Founders Online](https://founders.archives.gov/documents/Madison/01-10-02-0178)  
 - U.S. Constitution, Article IV, Section 4. [Constitution Center](https://constitutioncenter.org/interactive-constitution/articles/article-iv)  
 - Dahl, R. A. (2003). *How Democratic Is the American Constitution?* Yale University Press. [Yale Press](https://yalebooks.yale.edu/book/9780300095241/how-democratic-american-constitution/)
+
+</section>

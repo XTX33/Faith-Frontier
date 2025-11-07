@@ -7,16 +7,16 @@ short_title: "NJTA v. Barber"
 plaintiff: "New Jersey Turnpike Authority"
 defendant: "Devon Tyler Barber"
 
-court: "Superior Court of New Jersey — Law Division, Special Civil Part"
+court: "Superior Court of New Jersey—Law Division, Special Civil Part"
 venue: "Atlantic County"
 docket: "ATL-DC-007956-25"
-case_type: "Special Civil Part — Toll / Collections"
+case_type: "Special Civil Part—Toll / Collections"
 judge: "Hon. Dean R. Marcolongo, J.S.C."
 
 role: "Defendant / Counter-Plaintiff"
 
 status: "Active"
-track: "Track 1 — Discovery Phase"
+track: "Track 1—Discovery Phase"
 filed_date: 2025-08-19
 next_event: "Discovery responses due from NJTA"
 next_date: 2025-11-27
@@ -65,7 +65,7 @@ documents:
   - label: "Court Order (Discovery Schedule)"
     date: 2025-10-27
     path: "/assets/cases/atl-dc-007956-25/2025-10-27_Court-Order.pdf"
-  - label: "Discovery Packet — Interrogatories, Notice to Produce, and Admissions"
+  - label: "Discovery Packet—Interrogatories, Notice to Produce, and Admissions"
     date: 2025-10-27
     path: "/assets/cases/atl-dc-007956-25/2025-10-27_Discovery-Requests.pdf"
   - label: "Answer to Counterclaim & Affirmative Defenses (NJTA)"
@@ -117,7 +117,7 @@ filed an Answer to Counterclaim and Affirmative Defenses.
 
 | Date | Event | Notes / Linked Docs |
 |------|--------|---------------------|
-| **2025-03-28** | Congressman Gottheimer Letter to NJTA Chair O’Connor | Raises national-security and data-privacy concerns about TransCore’s foreign ownership — forms part of the basis for Barber’s discovery. [[PDF]](/assets/cases/atl-dc-007956-25/2025-03-28_Gottheimer-Letter.pdf) |
+| **2025-03-28** | Congressman Gottheimer Letter to NJTA Chair O’Connor | Raises national-security and data-privacy concerns about TransCore’s foreign ownership—forms part of the basis for Barber’s discovery. [[PDF]](/assets/cases/atl-dc-007956-25/2025-03-28_Gottheimer-Letter.pdf) |
 | **2025-08-19** | Complaint Filed by NJTA | Seeks $5,109.45 for tolls and administrative fees. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Complaint.pdf) |
 | **2025-08-19** | Summons Issued | ATL-DC-007956-25; service to Barber. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Summons.pdf) |
 | **2025-09-03** | First Appearance Filed | Confirms participation and intent to defend. [[PDF]](/assets/cases/atl-dc-007956-25/2025-09-03_Answer-FirstAppearance.pdf) |

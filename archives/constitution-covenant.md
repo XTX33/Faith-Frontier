@@ -7,7 +7,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
 
 <div class="content-wrapper">
 
-  <header>
+  <header role="banner">
     <h1>The Constitution: A Sacred Covenant for Liberty</h1>
     <p>
       “We the People of the United States, in Order to form a more perfect Union,
@@ -18,7 +18,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
     </p>
   </header>
 
-  <section>
+  <section aria-label="Content section">
     <h2>The Divine Origins of American Sovereignty</h2>
     <p>
       The United States Constitution stands as a sacred testament of natural law,
@@ -29,7 +29,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
     </p>
   </section>
 
-  <section>
+  <section aria-label="Content section">
     <h2>Declaration of Political Status: American State National</h2>
     <p>
       I, <strong>Devon Tyler Barber</strong>, affirm my identity as an American
@@ -45,7 +45,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
     </p>
   </section>
 
-  <section>
+  <section aria-label="Content section">
     <h2>Constitution for the United States of America</h2>
     <p>
       The U.S. Constitution, grounded in natural law and personal liberty, remains
@@ -68,7 +68,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
     </p>
   </section>
 
-  <section>
+  <section aria-label="Content section">
     <h2>Legal Protections and Civic Status</h2>
     <p><strong>Civil Rights:</strong> Under 18 U.S.C. §§ 241–242, citizens are protected
       from conspiracies to interfere with or deprive civil rights under color of law.
@@ -82,7 +82,7 @@ description: "Archived educational essay migrated from Tiller.Earth – explorin
     </p>
   </section>
 
-  <section>
+  <section aria-label="Content section">
     <h2>Take Action to Defend Your Sovereignty</h2>
     <ul>
       <li><a href="https://www.archives.gov/founding-docs/bill-of-rights" target="_blank">Bill of Rights</a></li>

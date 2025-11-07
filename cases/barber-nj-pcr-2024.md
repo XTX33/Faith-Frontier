@@ -13,7 +13,7 @@ tags:
   - Atlantic County
 ---
 
-<section class="case-page">
+<section aria-label="Case details" class="case-page">
   <header class="case-header">
     <h1>State v. Barber – Post-Conviction Relief under R. 3:22</h1>
     <dl class="case-meta">
@@ -32,7 +32,7 @@ tags:
     </dl>
   </header>
 
-  <section>
+  <section aria-label="Case details">
     <h2>Overview</h2>
     <p>
       These coordinated petitions seek post-conviction relief under
@@ -51,7 +51,7 @@ tags:
     </p>
   </section>
 
-  <section>
+  <section aria-label="Case details">
     <h2>Unified Legal Issues</h2>
     <p>
       The petitions raise interrelated questions of ineffective assistance,
@@ -82,7 +82,7 @@ tags:
     </ul>
   </section>
 
-  <section>
+  <section aria-label="Case details">
     <h2>Public Filings (Redacted)</h2>
     <p>
       The following links provide redacted versions of key filings for
@@ -102,13 +102,13 @@ tags:
       </li>
     </ul>
     <p class="text-muted">
-      Sensitive materials — including the Pre-Sentence Report, victim-related
-      information, and sealed exhibits — are maintained in a private archive.
+      Sensitive materials—including the Pre-Sentence Report, victim-related
+      information, and sealed exhibits—are maintained in a private archive.
       They are referenced in the filings as needed but are not published here.
     </p>
   </section>
 
-  <section>
+  <section aria-label="Case details">
     <h2>Procedural Posture</h2>
     <p>
       The coordinated PCR matters proceed in the Law Division as a unified
@@ -132,7 +132,7 @@ tags:
     </p>
   </section>
 
-  <section>
+  <section aria-label="Case details">
     <h2>Context & Purpose</h2>
     <p>
       This unified presentation exists to enhance transparency and public

@@ -7,10 +7,10 @@ short_title: "NJMVC v. Barber"
 plaintiff: "New Jersey Motor Vehicle Commission"
 defendant: "Devon Tyler Barber"
 
-court: "State of New Jersey — Office of Administrative Law"
+court: "State of New Jersey—Office of Administrative Law"
 venue: "Administrative appeal from New Jersey Motor Vehicle Commission"
 docket: "MVC-ADM-01234-25"
-case_type: "Administrative appeal — license suspension"
+case_type: "Administrative appeal—license suspension"
 judge: "Administrative Law Judge (pending assignment)"
 
 role: "Petitioner / Appellant"

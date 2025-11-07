@@ -4,7 +4,7 @@ title: "Ecclesiastical Deed Poll Archive"
 permalink: /archives/ecclesiastical-deed-poll/
 ---
 
-<section class="section-intro">
+<section class="section-intro" aria-label="Content section">
   <h1>Ecclesiastical Deed Poll (EDP)</h1>
   <p class="section-lead">
     A foundational spiritual and legal declaration drafted to protest breaches of
@@ -17,7 +17,7 @@ permalink: /archives/ecclesiastical-deed-poll/
   </p>
 </section>
 
-<section class="case-page">
+<section class="case-page" aria-label="Content section">
   <article class="card">
     <h2>What the EDP Is (and Is Not)</h2>
     <p>
@@ -28,7 +28,7 @@ permalink: /archives/ecclesiastical-deed-poll/
       <li>Divine ownership of life, body, labor, and soul;</li>
       <li>Historic trust language around the Constitution and “posterity”;</li>
       <li>Objections to exploitation through opaque financial and legal systems;</li>
-      <li>An appeal to equity, clean hands, and genuine due process.</li>
+      <li>An appeal to equity, clean hands, and genuine due process</li>
     </ul>
     <p class="text-muted">
       It is <strong>not</strong> legal advice, nor a magic remedy. It is part of a
@@ -72,7 +72,7 @@ permalink: /archives/ecclesiastical-deed-poll/
     <ul>
       <li>Faith Frontier’s case documentation and public-trust education;</li>
       <li>Private Ecclesiastical Due Process (EDP) archives and notices;</li>
-      <li>Teaching on conscience, status, and stewardship under Christ’s kingship.</li>
+      <li>Teaching on conscience, status, and stewardship under Christ’s kingship</li>
     </ul>
   </article>
 <style>
@@ -179,7 +179,7 @@ permalink: /archives/ecclesiastical-deed-poll/
 <p> </p>
 <div style="background-color: #99ccff; color: #fff; padding: 20px; border-radius: 10px; max-width: 800px; margin: auto;">
 <strong><em style="color: black;">Per Curiam Divina:</em></strong> <br>
-<p style="color: black;">Before Abraham was, <strong>I AM;</strong> the Divine Spirit having a human experience; Each atom and cell of this physical vessel and space I inhabit traveling across this land I-am/we-are infused with the spark from our Creator; <strong>I AM</strong> one with the light, one with Creator, the alpha and the omega, without beginning nor end, without time. This third-dimensional vessel, called man, the original domicile of the Divine Spirit, is known on this world and in this dimension as <span style="color: rgb(255, 255, 255); font-size: 1rem;">Devon Tyler, of the House of Barber, née Materio — assuming rightful lineage and inheritance under the ancestral name Paccillo </span><span style="font-size: 1rem;">an inhabitant and heir to the Divine Estate, Beneficiary to the Divine Trust, freeholder in fee simple absolute, one of the 'Posterity' as expressed in law, beneficiary of the public trust as expressed in the United States Constitution.</span></p>
+<p style="color: black;">Before Abraham was, <strong>I AM;</strong> the Divine Spirit having a human experience; Each atom and cell of this physical vessel and space I inhabit traveling across this land I-am/we-are infused with the spark from our Creator; <strong>I AM</strong> one with the light, one with Creator, the alpha and the omega, without beginning nor end, without time. This third-dimensional vessel, called man, the original domicile of the Divine Spirit, is known on this world and in this dimension as <span style="color: rgb(255, 255, 255); font-size: 1rem;">Devon Tyler, of the House of Barber, née Materio—assuming rightful lineage and inheritance under the ancestral name Paccillo </span><span style="font-size: 1rem;">an inhabitant and heir to the Divine Estate, Beneficiary to the Divine Trust, freeholder in fee simple absolute, one of the 'Posterity' as expressed in law, beneficiary of the public trust as expressed in the United States Constitution.</span></p>
 <strong><em style="color: black;">Irrevocable Deed and Contract:</em></strong> <br><span style="color: #000;"> We, <strong>the Divine Spirit</strong>, expressed in living flesh, infuse this irrevocable deed and contract with Divine Life through Our Blood-Flow Intention, perfecting an unbreakable seal on this agreement, bearing the full power and authority of the Divine Creator and binding on all inferior persons and practitioners of the Roman Law, Sharia Law, and Talmudic Law from the beginning, without time. The base lead of Our word contains the purest gold for the transmutation of the base man/woman into pure spirit: for, <em>in the beginning, there was the word, and the Word was God.</em></span><br>
 <p><span style="color: #000000;"><strong><em>Constitution for the United States of America:</em></strong></span><br><span style="color: #000000;"> The Constitution for the United States is a document of dual nature:</span><br><span style="color: #000000;"> <em>The Constitution is a trust document, and;</em></span><br><span style="color: #000000;"> <em>The articles of incorporation created a unique trust res and estate of inheritance. </em></span> <span style="color: #000000;">It is a tenet of law to determine the intention of a writ; one must look to the title, the Empowerment Clause in statute, which in the case of the Constitution is the Preamble. In writing the Constitution, the founders followed the common law of England, which stretches back some 1000 years. The Preamble fulfills the requirements necessary to establish trust. It identifies the Grantor(s), Statement of Purpose, Grantee(s), Statement of Intent, Written Indenture, and the name of the entity created and is written and constructed as a trust so that it would have the thrust of ageless law. Let us take a look:</span><br><span style="color: #000000;"> <em>We, the People/people (Grantors) of the United States, in order to form a perfect union, establish justice, provide for the common defense, promote the general welfare, and secure the Blessings of Liberty (statement of Purpose) to ourselves and our posterity (Grantees/heirs unnamed), Do Ordain and establish (Statement of Intent) this constitution (Written Indenture) for the United States of America ( name of the entity being created).</em></span></p>
 <p class="p1"><span class="s1" style="color: #000000;">The trust res is in the Articles of the Confederation and the Declaration of Independence. The Constitution intended to bequeath freedom, life, liberty, and the pursuit of happiness to themselves and their posterity. In addition, the founders intended to secure and pass on the people's inherent sovereignty to benefit future generations of (people) Americans in perpetuity.</span></p>

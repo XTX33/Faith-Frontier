@@ -4,9 +4,9 @@ title: "Trust Custodianship Registry"
 permalink: /archives/trust-registry/
 ---
 
-<section class="trust-registry">
+<section class="trust-registry" aria-label="Content section">
   <style>
-    /* —— palette & rhythm (scoped to .trust-registry) —— */
+    /*——palette & rhythm (scoped to .trust-registry)——*/
     .trust-registry {
       background: #f7f7f7;
       padding: 2rem 0;
@@ -94,7 +94,7 @@ permalink: /archives/trust-registry/
     <div class="card" id="prologue">
       <h1>Faith Frontier | Trust Custodianship Registry</h1>
       <p style="text-align:center;font-style:italic;">
-        “Every good gift and every perfect gift is from above.” — James 1:17 (GNV)
+        “Every good gift and every perfect gift is from above.”—James 1:17 (GNV)
       </p>
       <p>
         By the <strong>Love of the Father, the Grace of the Son, and the quickening
@@ -154,7 +154,7 @@ permalink: /archives/trust-registry/
       <h2>Organic Digital Bill of Rights</h2>
       <p>
         Established for all living men and women whose name, likeness, voice, labor,
-        and image have been digitized without sacred consent. We are not data — we
+        and image have been digitized without sacred consent. We are not data—we
         are divine. This Bill stands as a sacred firewall against digital feudalism and
         machine dominion.
       </p>
@@ -166,12 +166,12 @@ permalink: /archives/trust-registry/
         <li><strong>Right to Conscious Algorithms:</strong> All AI that affects life, liberty, or labor must be open-source, reviewable, and human-overseen.</li>
         <li><strong>Right to Unmonitored Living:</strong> No surveillance device shall operate in your home or vehicle without your consent and full disclosure.</li>
         <li><strong>Right to Digital Self-Defense:</strong> Encryption, masking, private servers, and disruption of surveillance are protected acts.</li>
-        <li><strong>Right to Declare Private Domain:</strong> Your private websites, forums, or devices are your digital homestead — not subject to silent harvesting.</li>
+        <li><strong>Right to Declare Private Domain:</strong> Your private websites, forums, or devices are your digital homestead—not subject to silent harvesting.</li>
         <li><strong>Right to Human Governance:</strong> No AI shall ever judge you in court, assign you value, or act in place of a living being under oath.</li>
         <li><strong>Right to Reclaim What Was Taken:</strong> All AI trained on your work, likeness, or voice without consent is subject to reclamation and remedy.</li>
       </ul>
       <p style="text-align:center;font-style:italic;margin-top:1.4rem;">
-        “What is made in our image must serve us — not rule us.”
+        “What is made in our image must serve us—not rule us.”
       </p>
     </div>
 
@@ -199,7 +199,7 @@ permalink: /archives/trust-registry/
 
     <!-- VEHICLE ASSIGNMENT -->
     <div class="card" id="vehicle-assignment">
-      <h2>Consecrated Conveyance — Ministry Use Only</h2>
+      <h2>Consecrated Conveyance—Ministry Use Only</h2>
       <ul>
         <li><strong>Make / Model:</strong> 2019 Volkswagen Passat Wolfsburg</li>
         <li><strong>VIN:</strong> 1VWLA7A36KC002247</li>
