@@ -61,7 +61,7 @@ description: "Faith Frontier’s reflections on conscience, stewardship, and jus
       connecting organic law, posterity, and Christian conscience.
     </p>
     <p>
-      <a class="btn-ghost" href="{{ '/faith/constitution-covenant/' | relative_url }}">
+      <a class="btn-ghost" href="{{ '/pages/faith/constitution-covenant/' | relative_url }}">
         Explore the Constitutional Essay →
       </a>
     </p>
