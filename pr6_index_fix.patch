@@ -1,0 +1,21 @@
+--- a/index.md
++++ b/index.md
+@@ -67,7 +67,7 @@
+         <li>Timelines showing how hearsay, slander, and errors can harden into "evidence."</li>
+         <li>Side-by-side comparisons of statutes, policies, and what actually happened on the ground</li>
+       </ul>
+-      <a class="card-link" href="{{ \'/public-trust/\' | relative_url }}" aria-label="Explore public trust research and analysis">Explore Public Trust Research</a>
++      <a class="card-link" href="{{ '/public-trust/' | relative_url }}" aria-label="Explore public trust research and analysis">Explore Public Trust Research</a>
+     </article>
+ 
+   </div>
+@@ -131,8 +131,8 @@
+     efficiency, but by <strong>truth, courage, and care for the vulnerable</strong>.
+   </p>
+   <div class="cta-actions">
+-    <a class="btn-primary" href="{{ \'/cases/\' | relative_url }}" aria-label="Browse case records and dockets">Browse Case Records</a>
+-    <a class="btn-ghost" href="{{ \'/faith/\' | relative_url }}" aria-label="Read faith and doctrine reflections">Explore Faith Reflections</a>
++    <a class="btn-primary" href="{{ '/cases/' | relative_url }}" aria-label="Browse case records and dockets">Browse Case Records</a>
++    <a class="btn-ghost" href="{{ '/faith/' | relative_url }}" aria-label="Read faith and doctrine reflections">Explore Faith Reflections</a>
+   </div>
+ </section>
