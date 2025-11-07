@@ -37,21 +37,31 @@
           Home
         </a>
       </li>
+
       <li>
         <a href="{{ '/faith/' | relative_url }}" {% if page.url contains '/faith/' %}aria-current="page"{% endif %}>
           Faith &amp; Essays
         </a>
       </li>
+
       <li>
         <a href="{{ '/cases/' | relative_url }}" {% if page.url contains '/cases/' %}aria-current="page"{% endif %}>
           Cases &amp; Dockets
         </a>
       </li>
+
+      <li>
+        <a href="{{ '/archives/' | relative_url }}" {% if page.url contains '/archives/' %}aria-current="page"{% endif %}>
+          Legacy &amp; Archives
+        </a>
+      </li>
+
       <li>
         <a href="{{ '/trust/' | relative_url }}" {% if page.url contains '/trust/' %}aria-current="page"{% endif %}>
           Trust Documents
         </a>
       </li>
+
       <li>
         <a href="{{ '/about/' | relative_url }}" {% if page.url contains '/about/' %}aria-current="page"{% endif %}>
           About / Contact
