@@ -1,21 +1,30 @@
+---
+layout: default
+---
+
 <section class="case-page">
   <header class="case-header">
     <h1>{{ page.title }}</h1>
+
     <dl class="case-meta">
       {% if page.court %}
-        <dt>Court</dt><dd>{{ page.court }}</dd>
+        <dt>Court</dt>
+        <dd>{{ page.court }}</dd>
       {% endif %}
 
       {% if page.docket %}
-        <dt>Docket</dt><dd>{{ page.docket }}</dd>
+        <dt>Docket</dt>
+        <dd>{{ page.docket }}</dd>
       {% endif %}
 
       {% if page.case_type %}
-        <dt>Case Type</dt><dd>{{ page.case_type }}</dd>
+        <dt>Case Type</dt>
+        <dd>{{ page.case_type }}</dd>
       {% endif %}
 
       {% if page.status %}
-        <dt>Status</dt><dd>{{ page.status }}</dd>
+        <dt>Status</dt>
+        <dd>{{ page.status }}</dd>
       {% endif %}
 
       {% if page.filed %}
@@ -25,36 +34,45 @@
 
       {% if page.next_event %}
         <dt>Next Event</dt>
-        <dd>{{ page.next_event.label }} on {{ page.next_event.date | date: "%B %-d, %Y" }}</dd>
+        <dd>
+          {% if page.next_event.label and page.next_event.date %}
+            {{ page.next_event.label }} on {{ page.next_event.date | date: "%B %-d, %Y" }}
+          {% else %}
+            {{ page.next_event }}
+          {% endif %}
+        </dd>
       {% endif %}
 
       {% if page.judge %}
-        <dt>Judge</dt><dd>{{ page.judge }}</dd>
+        <dt>Judge</dt>
+        <dd>{{ page.judge }}</dd>
       {% endif %}
     </dl>
   </header>
 
   {% if page.summary %}
-    <section>
+    <section class="case-summary">
       <h2>Summary</h2>
       <p>{{ page.summary }}</p>
     </section>
   {% endif %}
 
   {% if page.filings %}
-    <section>
+    <section class="case-filings">
       <h2>Key Filings</h2>
       <ul>
         {% for filing in page.filings %}
           <li>
-            <strong>{{ filing.date | date: "%m/%d/%Y" }}:</strong>
+            {% if filing.date %}
+              <strong>{{ filing.date | date: "%m/%d/%Y" }}:</strong>
+            {% endif %}
             {{ filing.label }}
           </li>
         {% endfor %}
       </ul>
     </section>
 
-    <section>
+    <section class="case-public-files">
       <h2>Public Filings (Redacted)</h2>
       <ul>
         {% for filing in page.filings %}
@@ -73,7 +91,7 @@
     </section>
   {% endif %}
 
-  <section>
+  <section class="case-body">
     {{ content }}
   </section>
 </section>
