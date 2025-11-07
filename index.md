@@ -137,7 +137,8 @@ title: "Faith Frontier Ecclesiastical Trust"
     efficiency, but by <strong>truth, courage, and care for the vulnerable</strong>.
   </p>
   <div class="cta-actions">
-    <a class="btn-primary" href="{{ '/cases/' | relative_url }}">Start With a Case</a>
-    <a class="btn-ghost" href="{{ '/faith/' | relative_url }}">Learn the Heart Behind It</a>
+    <a class="btn-primary" href="{{ '/revelations/' | relative_url }}">See the Revelations</a>
+    <a class="btn-ghost" href="{{ '/timeline/' | relative_url }}">View the Timeline</a>
+    <a class="btn-ghost" href="{{ '/cases/' | relative_url }}">Browse All Cases</a>
   </div>
 </section>
