@@ -2,21 +2,33 @@
 layout: default
 title: "Case Records"
 permalink: /cases/
-description: "Index of active and archived Faith Frontier case records, including New Jersey appeals, PCR filings, and civil matters."
+description: "Indexed record of matters advanced by Faith Frontier Ecclesiastical Trust and its trustees — documenting New Jersey appeals, PCR filings, and civil actions undertaken for truth, equity, and lawful stewardship."
 ---
 
 <section class="section-intro">
   <h1>Case Records</h1>
   <p class="section-lead">
-    An indexed archive of filings, timelines, and outcomes in matters involving
-    <strong>Faith Frontier Ecclesiastical Trust</strong>, its trustees, and related parties.
-    Each entry is published to promote transparency, public accountability, and a clearer
-    understanding of how due process unfolds in New Jersey civil, chancery, appellate,
-    and administrative forums.
+    The following records are presented under the oversight of
+    <strong>Faith Frontier Ecclesiastical Trust</strong> — a faith-based public trust devoted to
+    stewardship, lawful reform, and the defense of conscience in civil and ecclesiastical affairs.
+    Each entry is published to preserve integrity in process, honor the rule of law, and bear witness
+    to the covenant between labor, governance, and divine justice.
   </p>
+
   <p class="text-muted">
-    Documents reproduced here are public court filings, orders, or agency records.
-    They are provided for informational and educational purposes only and do not constitute legal advice.
+    These filings represent the work of trustees, petitioners, and advocates seeking redress in
+    state and federal forums across New Jersey. They illustrate how law, when rightly applied,
+    may serve mercy, discipline, and restoration — rather than domination or neglect.
+  </p>
+
+  <p class="text-muted">
+    <em>“For the Lord loves justice; He will not forsake His saints.”</em> — Psalm 37:28
+  </p>
+
+  <p class="text-muted">
+    The documents reproduced here are official public records, filings, or judicial orders. They are shared
+    for transparency and education, not as legal advice or solicitation. Private or sealed materials are withheld
+    out of respect for confidentiality and lawful process.
   </p>
 </section>
 
@@ -40,15 +52,16 @@ description: "Index of active and archived Faith Frontier case records, includin
     <article class="case-card">
       <h2>No cases published yet</h2>
       <p class="text-muted">
-        Case records are being prepared and will be posted as filings are organized and
-        redacted for online publication. Please check back soon.
+        Case records are being organized, reviewed, and prepared for public release as
+        filings are redacted for privacy and formatted for digital preservation. Please
+        check back soon as this record continues to grow.
       </p>
     </article>
   {% else %}
 
     {% comment %}
       Split into Active vs Closed based on the status text.
-      Anything else falls into "Other / Misc" if you ever need it later.
+      Anything else falls into "Other / Misc" if needed later.
     {% endcomment %}
     {% assign active_cases = all_cases | where_exp: "c", "c.status contains 'Active'" %}
     {% assign closed_cases = all_cases | where_exp: "c", "c.status contains 'Closed'" %}
