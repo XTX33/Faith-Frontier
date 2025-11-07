@@ -140,12 +140,12 @@ Without fixing these syntax errors:
 
 All Liquid template tags in the repository should follow the pattern:
 ```liquid
-{{ 'path/to/page/' | relative_url }}
+{{ '/path/to/page/' | relative_url }}
 ```
 
-Never:
+Never use backslashes:
 ```liquid
-{{ \'path/to/page/\' | relative_url }}  ❌ WRONG
+{{ \'/path/to/page/\' | relative_url }}  ❌ WRONG
 ```
 
 ## Conclusion

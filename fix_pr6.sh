@@ -24,10 +24,14 @@ echo "Applying fix to index.md..."
 # Fix line 134: {{ \'/cases/\' | relative_url }} → {{ '/cases/' | relative_url }}
 # Fix line 135: {{ \'/faith/\' | relative_url }} → {{ '/faith/' | relative_url }}
 
-sed -i.bak "s/{{ \\\\'/{{ '/g; s/\\\\' |/' |/g" index.md
+# Remove backslashes before single quotes in Liquid tags
+sed -i.bak "s/{{ \\\\\\\'/{{ '/g" index.md
+# Remove backslashes after single quotes in Liquid tags
+sed -i "s/\\\\\\\\' |/' |/g" index.md
 
 echo "Verifying changes..."
-if grep -q "\\\\'" index.md; then
+# Check that no backslash-quote patterns remain in Liquid tags
+if grep -q "{{ \\\\\\\\'" index.md || grep -q "\\\\\\\\' |" index.md; then
     echo "ERROR: Some backslashes were not removed. Please check index.md manually."
     mv index.md.bak index.md
     exit 1
