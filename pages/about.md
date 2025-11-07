@@ -8,42 +8,43 @@ description: "About the mission, origins, and stewardship principles of the Fait
 <section class="section">
   <h1>About Faith Frontier Ecclesiastical Trust</h1>
   <p class="lead">
-    <strong>Faith Frontier</strong> documents the intersection of law, conscience, and stewardship —
-    preserving public records and moral reasoning as a form of public trust.
+    <strong>Faith Frontier</strong> serves as a public documentation portal at the intersection of law, conscience, and institutional accountability —
+    preserving public records and faith-based analysis as a form of civic stewardship.
   </p>
 
   <h2>Mission</h2>
   <p>
-    The Trust exists to restore integrity and transparency to the civic process, blending
-    legal literacy with theological reflection. Each publication — whether a case record,
-    essay, or reform brief — is meant to illuminate how justice, equity, and mercy can coexist
-    within the same public framework.
+    The Trust exists to promote integrity and transparency in public institutions by documenting legal proceedings,
+    administrative actions, and faith-based moral reasoning. Each publication — whether a case record,
+    essay, or reform analysis — is intended to illuminate how justice, equity, and compassion can function
+    within public governance frameworks.
   </p>
 
   <h2>Origins</h2>
   <p>
-    Founded by <strong>Devon Tyler Barber</strong> in New Jersey, Faith Frontier arose from direct
-    experience in courtrooms, labor disputes, and public agencies. The project began as a record
-    of personal litigation and evolved into an ecclesiastical trust — a living ministry of evidence,
-    faith, and reform.
+    Founded by <strong>Devon Tyler Barber</strong> in New Jersey, Faith Frontier emerged from direct
+    experience in courts, labor disputes, and administrative proceedings. The project began as documentation
+    of personal litigation and evolved into an ecclesiastical trust — a public ministry of evidence,
+    faith-based analysis, and institutional reform advocacy.
   </p>
 
-  <h2>Principles</h2>
+  <h2>Guiding Principles</h2>
   <ul>
-    <li><strong>Stewardship:</strong> Handle truth and public record with care, not control.</li>
-    <li><strong>Transparency:</strong> Let every filing, motion, and act of conscience be visible and verifiable.</li>
-    <li><strong>Reform:</strong> Turn personal experience into precedent that serves others.</li>
-    <li><strong>Faith:</strong> Keep justice accountable to higher moral law.</li>
+    <li><strong>Stewardship:</strong> Manage truth and public record with care and accountability, not control.</li>
+    <li><strong>Transparency:</strong> Ensure every filing, motion, and analysis is publicly accessible and verifiable.</li>
+    <li><strong>Reform:</strong> Transform individual experience into precedent and analysis that serves the public interest.</li>
+    <li><strong>Faith:</strong> Hold justice accountable to moral and spiritual principles.</li>
   </ul>
 
-  <h2>Structure</h2>
+  <h2>Organizational Structure</h2>
   <p>
-    The Trust operates as an independent, faith-based public-interest record. It is not a law firm
-    or political entity, but an educational and moral enterprise. The Proprietor maintains ownership
-    of all intellectual and creative property in stewardship for future generations.
+    The Trust operates as an independent, faith-based public-interest documentation project. It is not a law firm,
+    political organization, or advocacy group in the conventional sense, but rather an educational and moral enterprise.
+    The Proprietor maintains ownership of all intellectual and creative property in stewardship for future use.
   </p>
 
+  <h2>Statement of Purpose</h2>
   <p class="text-muted">
-    <em>“Conscience is not bound by office or title — it is bound by truth.”</em>
+    <em>"Conscience is not bound by office or title — it is bound by truth and the obligation to serve the public good."</em>
   </p>
 </section>

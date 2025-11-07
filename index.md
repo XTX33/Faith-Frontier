@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Faith Frontier Ecclesiastical Trust"
+description: "A public documentation portal uniting law, faith, and transparency — documenting New Jersey case records, public-trust analysis, and faith-based commentary."
 ---
 
 <section class="hero">
@@ -30,114 +31,113 @@ title: "Faith Frontier Ecclesiastical Trust"
     <article class="feature-card">
       <h2>Case Documentation: Courts, Wage Claims &amp; Appeals</h2>
       <p>
-        Follow live New Jersey matters — from <strong>NJTA v. Barber</strong> to wage disputes,
-        benefits cutoffs, and criminal appeals — through annotated filings, timelines, and
-        side-by-side comparisons of what was alleged, what actually happened, and how the court ruled.
+        Track active New Jersey matters — including <strong>NJTA v. Barber</strong>, wage disputes,
+        benefits proceedings, and criminal appeals — through annotated court filings, procedural timelines, and
+        comparative analysis of allegations, evidence, and judicial outcomes.
       </p>
       <ul class="feature-list">
-        <li>Read court papers in their original PDF form.</li>
-        <li>See <strong>plain-English captions</strong> for each filing.</li>
-        <li>Trace key dates: arrest, detention, hearings, orders, and appeals.</li>
-        <li>Watch how boilerplate denials and “standard language” operate in practice.</li>
+        <li>Access court documents in their original PDF format</li>
+        <li>Review <strong>plain-language case summaries</strong> for each filing</li>
+        <li>Follow key procedural dates: arrest, detention, hearings, orders, and appeals</li>
+        <li>Examine how boilerplate denials and standard procedures operate in practice</li>
       </ul>
-      <a class="card-link" href="{{ '/cases/' | relative_url }}">View Case Summaries &amp; Documents →</a>
+      <a class="card-link" href="{{ '/cases/' | relative_url }}">View Case Records &amp; Documents →</a>
     </article>
 
     <!-- Faith & Formation -->
     <article class="feature-card">
-      <h2>Faith, Doctrine &amp; Formation Under Pressure</h2>
+      <h2>Faith, Doctrine &amp; Moral Formation</h2>
       <p>
-        This isn’t theory written from a distance. These reflections grow out of
-        <strong>real pressure</strong>: lost wages, seized time, broken promises, and the fight
-        to stay grounded in Scripture while navigating dockets and deadlines.
+        These reflections emerge from <strong>lived experience</strong>: lost wages, prolonged detention,
+        institutional failures, and the ongoing work of grounding Scripture alongside case law and court procedure.
       </p>
       <ul class="feature-list">
-        <li>Genesis, prophets, and Gospel texts read next to case law and court rules.</li>
-        <li>Essays on consent, covenant, stewardship, and unequal yokes.</li>
-        <li>How anger, grief, repentance, and hope coexist with litigation strategy.</li>
+        <li>Biblical texts examined alongside civil procedure and administrative law</li>
+        <li>Essays on consent, covenant, stewardship, and unequal yokes in civic life</li>
+        <li>Reflections on integrating grief, repentance, and hope with legal strategy</li>
       </ul>
-      <a class="card-link" href="{{ '/faith/' | relative_url }}">Read Essays &amp; Faith Notes →</a>
+      <a class="card-link" href="{{ '/faith/' | relative_url }}">Read Essays &amp; Reflections →</a>
     </article>
 
     <!-- Public Trust & Systems -->
     <article class="feature-card">
       <h2>Public Trust &amp; Systems Integrity</h2>
       <p>
-        Agencies do not just move paperwork; they move lives. Here you can examine how
+        Public agencies manage more than paperwork — they manage lives. This section examines how
         toll authorities, motor vehicle agencies, welfare offices, and courts handle
-        data, debt, detention, and discretion — and where they fall short of the public trust.
+        data, debt, detention, and discretion — and where systems fall short of the public trust.
       </p>
       <ul class="feature-list">
-        <li>Research on toll enforcement, license suspensions, and collection tactics.</li>
-        <li>Timelines showing how hearsay, slander, and errors can harden into “evidence.”</li>
-        <li>Side-by-side comparisons of statutes, policies, and what actually happened on the ground.</li>
+        <li>Analysis of toll enforcement, license suspensions, and collection practices</li>
+        <li>Procedural timelines showing how errors and hearsay harden into official record</li>
+        <li>Comparative review of statutes, regulations, and real-world implementation</li>
       </ul>
-      <a class="card-link" href="{{ '/public-trust/' | relative_url }}">See Public-Trust Research →</a>
+      <a class="card-link" href="{{ '/public-trust/' | relative_url }}">Explore Public-Trust Research →</a>
     </article>
 
   </div>
 </section>
 
 <section class="mission">
-  <h2>Why Faith Frontier Exists</h2>
+  <h2>Mission Statement</h2>
   <p>
-    Faith Frontier was born out of a season where rumors, political speech, and misread records
-    were treated as facts — where a tradesman and small-business owner was held for months before
-    being seen, where wage disputes and benefits decisions were handled faster on paper than in
-    real life, and where conscience had to fight to stay awake.
+    Faith Frontier was established in response to a season when rumor, political speech, and misread records
+    were treated as fact — when a tradesman and small-business owner was detained for over three months before arraignment,
+    when wage disputes and benefits decisions moved faster on paper than in real life, and when conscience
+    had to remain vigilant through institutional failure.
   </p>
   <p>
-    This project turns that experience outward. It is an attempt to reconcile
-    <strong>due process, public record, and spiritual honesty</strong> — to show what happens
-    not just in opinions and press releases, but in the filings, orders, and delays that shape
-    an ordinary life.
+    This project transforms that experience into a public resource. It seeks to reconcile
+    <strong>due process, public record, and spiritual integrity</strong> — demonstrating what happens
+    not only in judicial opinions and press releases, but in the filings, orders, and procedural delays that shape
+    ordinary lives.
   </p>
   <p>
-    We believe justice should be accessible, understandable, and compassionate — that the law
-    should be measured not only by what it permits, but by what it does to the people it touches.
+    We believe justice should be accessible, understandable, and compassionate — that law
+    should be measured not only by what it permits, but by its impact on the people it governs.
   </p>
 </section>
 
 <section class="how-it-works">
-  <h2>How to Use This Site</h2>
+  <h2>How to Use This Portal</h2>
   <div class="how-grid">
     <article class="how-step">
-      <h3>1. Start with a Case</h3>
+      <h3>1. Select a Case</h3>
       <p>
-        Visit the <a href="{{ '/cases/' | relative_url }}">Cases index</a> and choose a matter —
-        for example, <strong>NJTA v. Barber</strong> or a Special Civil Part dispute.
-        Each case page lists the filings in order and links to the original PDFs.
+        Visit the <a href="{{ '/cases/' | relative_url }}">Case Index</a> and choose a legal matter —
+        such as <strong>NJTA v. Barber</strong> or a Special Civil Part proceeding.
+        Each case page provides filings in chronological order with links to original PDF documents.
       </p>
     </article>
     <article class="how-step">
-      <h3>2. Read the Plain-English Notes</h3>
+      <h3>2. Review Plain-Language Summaries</h3>
       <p>
-        Under each case, follow summaries that explain what a complaint, counterclaim,
-        motion, or order <em>actually does</em>, and how it fits into the broader timeline
-        (including wage conflicts, benefits appeals, or 108 days of pre-hearing custody).
+        Each case includes narrative summaries explaining what a complaint, counterclaim,
+        motion, or court order <em>accomplishes procedurally</em>, and how it connects to the broader record
+        (including wage conflicts, benefits appeals, or extended pre-hearing detention).
       </p>
     </article>
     <article class="how-step">
       <h3>3. Connect Law, Policy &amp; Faith</h3>
       <p>
-        Move between <a href="{{ '/cases/' | relative_url }}">case pages</a>,
-        <a href="{{ '/public-trust/' | relative_url }}">research highlights</a>, and
-        <a href="{{ '/faith/' | relative_url }}">faith essays</a> to see how one person’s
-        file reflects larger questions: What is proportional? What is merciful? What is true?
+        Navigate between <a href="{{ '/cases/' | relative_url }}">case documentation</a>,
+        <a href="{{ '/public-trust/' | relative_url }}">public-trust research</a>, and
+        <a href="{{ '/faith/' | relative_url }}">faith-based reflections</a> to examine broader questions:
+        What is proportional? What is merciful? What is true?
       </p>
     </article>
   </div>
 </section>
 
 <section class="cta">
-  <h2>Walk This Road With Us</h2>
+  <h2>Participate in Transparent Governance</h2>
   <p>
-    Whether you are a litigant, advocate, public servant, or neighbor, you are invited to
-    watch these records unfold in the open — and to measure our systems not just by
-    efficiency, but by <strong>truth, courage, and care for the vulnerable</strong>.
+    Whether you are a litigant, advocate, public servant, or concerned citizen, you are invited to
+    examine these records in the open — and to evaluate our systems not solely by
+    efficiency, but by <strong>truth, integrity, and care for the vulnerable</strong>.
   </p>
   <div class="cta-actions">
     <a class="btn-primary" href="{{ '/cases/' | relative_url }}">Start With a Case</a>
-    <a class="btn-ghost" href="{{ '/faith/' | relative_url }}">Learn the Heart Behind It</a>
+    <a class="btn-ghost" href="{{ '/faith/' | relative_url }}">Explore the Foundation</a>
   </div>
 </section>
