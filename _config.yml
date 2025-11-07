@@ -1,26 +1,20 @@
 title: "Faith Frontier Ecclesiastical Trust"
-tagline: "Law • Conscience • Stewardship"
-description: "A public documentation portal uniting law, faith, and transparency — with New Jersey case records, public-trust analysis, and conscience-driven commentary."
+description: "A public documentation portal uniting law, faith, and transparency, with New Jersey case records, public-trust analysis, and commentary."
+tagline: "Law, conscience, and stewardship."
 
-# Core site settings
 url: "https://faithfrontier.org"
-baseurl: ""            # custom domain at root
+baseurl: ""
 lang: "en"
 timezone: "America/New_York"
 
-# Markdown / rendering
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
 
-# Pretty URLs (pages & posts)
 permalink: "/:title/"
 
-# ----------------------------------
-# Collections (cases / essays)
-# ----------------------------------
 collections:
   cases:
     output: true
@@ -29,62 +23,45 @@ collections:
     output: true
     permalink: "/faith/:name/"
 
-# ----------------------------------
-# Defaults (layouts + basics)
-# ----------------------------------
 defaults:
-  # All case files in _cases/
   - scope:
       path: ""
       type: "cases"
     values:
       layout: "case"
-      sitemap: true
 
-  # All essay files in _essays/
   - scope:
       path: ""
       type: "essays"
     values:
       layout: "essay"
-      sitemap: true
 
-  # All regular pages
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
-      sitemap: true
 
-  # Blog posts (if/when you add _posts/)
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      sitemap: true
 
-# ----------------------------------
-# Plugins (GitHub Pages–compatible)
-# ----------------------------------
 plugins:
-  - jekyll-seo-tag   # meta tags, social cards
-  - jekyll-sitemap   # /sitemap.xml for crawlers
-  - jekyll-feed      # Atom feed if you add posts
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# ----------------------------------
-# Build hygiene
-# ----------------------------------
 exclude:
-  - "node_modules"
-  - "vendor"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "README.md"
-  - "config.yml.txt"      # old config
-  - "package.json"
-  - "package-lock.json"
-  - "webpack.config.js"
-  - "scripts"
-  - ".github"
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - config.yml.txt
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - scripts
+  - .github
