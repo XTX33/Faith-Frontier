@@ -4,7 +4,7 @@
 
 /* Design tokens */
 :root {
-  /* Brand palette */
+  /* Brand palette - Improved contrast */
   --brand-dark: #020617;          /* near-black, ink-like */
   --brand-light: #f9fafb;         /* soft off-white */
   --brand-accent: #004b8d;        /* deep blue */
@@ -17,10 +17,10 @@
 
   /* Header-specific (strong contrast) */
   --header-bg: var(--brand-dark);
-  --header-text: #f9fafb;
+  --header-text: #ffffff;
   --header-border: #020617;
 
-  /* Text colors */
+  /* Text colors - Enhanced for better readability */
   --text-main: #111827;
   --text-muted: #4b5563;
   --text-light: #e5e7eb;
@@ -29,9 +29,9 @@
   --border-color: #d1d5db;
   --shadow: 0 2px 6px rgba(15, 23, 42, 0.08);
 
-  /* Links */
-  --link-color: var(--brand-accent);
-  --link-hover: #2563eb;
+  /* Links - Better contrast */
+  --link-color: #004b8d;
+  --link-hover: #1e40af;
 
   /* Transition base */
   --transition: all 0.25s ease;
@@ -160,13 +160,10 @@ a:hover {
    Buttons
    ========================== */
 
-/* ==========================
-   Buttons
-   ========================== */
-
 .btn,
 .btn-primary,
-.btn-ghost {
+.btn-ghost,
+.btn-accent {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -180,7 +177,7 @@ a:hover {
   transition: var(--transition);
 }
 
-/* Main accent button (used as .btn-accent on homepage) */
+/* Primary and accent buttons */
 .btn-accent,
 .btn-primary {
   background: var(--brand-accent);
@@ -192,6 +189,7 @@ a:hover {
 .btn-primary:hover {
   background: var(--link-hover);
   color: #ffffff;
+  text-decoration: none;
 }
 
 /* Ghost / outline button */
@@ -202,29 +200,8 @@ a:hover {
 }
 
 .btn-ghost:hover {
-  background: rgba(15, 23, 42, 0.03);
-}
-
-
-.btn-primary {
-  background: var(--brand-accent);
-  color: #ffffff;
-  box-shadow: var(--shadow);
-}
-
-.btn-primary:hover {
-  background: var(--link-hover);
-  color: #ffffff;
-}
-
-.btn-ghost {
-  background: transparent;
-  color: var(--text-main);
-  border-color: var(--border-color);
-}
-
-.btn-ghost:hover {
-  background: rgba(15, 23, 42, 0.03);
+  background: rgba(15, 23, 42, 0.05);
+  text-decoration: none;
 }
 
 /* ==========================
