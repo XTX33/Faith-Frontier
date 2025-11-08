@@ -11,7 +11,6 @@ next_event:
   date: ""
 judge: "Hon. [Name], J.S.C."
 track: "Criminal PCR"
-assets_path: "/assets/cases/atl-22-002292/"
 summary: >
   Petition for Post-Conviction Relief (PCR) filed by Devon Tyler Barber under
   N.J. Ct. R. 3:22, asserting constitutional violations, ineffective assistance
