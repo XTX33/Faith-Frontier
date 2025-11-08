@@ -469,8 +469,13 @@
 
 .case-list {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.25rem;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .case-list {
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  }
 }
 
 @media (min-width: 768px) {
