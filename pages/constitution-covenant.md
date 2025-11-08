@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "America’s Government"
-permalink: /faith/americas-government/
+permalink: /americas-government/
 description: "A reflection on the United States’ republican structure, its constitutional guarantees, and the balance between democracy and law."
 ---
 
