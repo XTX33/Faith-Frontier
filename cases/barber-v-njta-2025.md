@@ -10,17 +10,22 @@ defendant: "Devon Tyler Barber"
 
 court: "Superior Court of New Jersey — Law Division, Special Civil Part"
 venue: "Atlantic County"
-docket: "ATL-DC-007956-25"
+# Consolidated: earlier docket ATL-DC-007956 and current ATL-DC-007956-25
+docket: "ATL-DC-007956 & ATL-DC-007956-25 (consolidated)"
+primary_docket: "ATL-DC-007956-25"
 case_type: "Special Civil Part — Toll / Collections"
 judge: "Hon. Dean R. Marcolongo, J.S.C."
 
 role: "Defendant / Counter-Plaintiff"
 
-status: "Active"
+status: "Active – Continued from prior docket ATL-DC-007956"
 track: "Track 1 — Discovery Phase"
-filed_date: 2025-08-19
-next_event: "Discovery responses due from NJTA"
-next_date: 2025-11-27
+
+filed: 2025-08-19
+
+next_event:
+  label: "Discovery responses due from NJTA"
+  date: 2025-11-27
 
 location: "Atlantic County Civil Courthouse, 1201 Bacharach Blvd., Atlantic City, NJ"
 
@@ -42,11 +47,14 @@ common_law_themes:
 
 summary: >
   The New Jersey Turnpike Authority ("NJTA") filed a Special Civil Part action
-  seeking $5,109.45 in alleged unpaid tolls and administrative fees. Devon Tyler
+  seeking $5,109.45 in alleged unpaid tolls and administrative fees arising from
+  travel on its toll roads. Earlier billing and collection efforts were pursued
+  under docket ATL-DC-007956; the present docket ATL-DC-007956-25 continues the
+  same controversy and is treated here as a single consolidated case. Devon Tyler
   Barber, appearing pro se, filed a verified counterclaim asserting that NJTA's
   enforcement and fee structure exceed statutory authority and violate
   constitutional safeguards and the public-trust doctrine. The matter is
-  proceeding under Judge Dean R. Marcolongo's October 27 2025 order placing the
+  proceeding under Judge Dean R. Marcolongo's October 27, 2025 order placing the
   case on Track 1 and authorizing limited discovery.
 
 faith_note: >
@@ -56,43 +64,54 @@ faith_note: >
   public-trust doctrine: government may administer what belongs to the people,
   but it must do so with transparency, reason, and restraint.
 
-documents:
-  - label: "Summons"
-    date: 2025-08-19
-    path: "/assets/cases/atl-dc-007956-25/2025-08-19_Summons.pdf"
-  - label: "Plaintiff's Complaint"
-    date: 2025-08-19
-    path: "/assets/cases/atl-dc-007956-25/2025-08-19_Complaint.pdf"
-  - label: "Defendant's First Appearance"
-    date: 2025-09-03
-    path: "/assets/cases/atl-dc-007956-25/2025-09-03_Answer-FirstAppearance.pdf"
-  - label: "Amended Answer & Counterclaim"
-    date: 2025-10-08
-    path: "/assets/cases/atl-dc-007956-25/2025-10-08_Counterclaim.pdf"
-  - label: "Proposed Order for Counterclaim Relief"
-    date: 2025-10-08
-    path: "/assets/cases/atl-dc-007956-25/2025-10-08_Proposed-Order.pdf"
-  - label: "Court Order (Discovery Schedule)"
-    date: 2025-10-27
-    path: "/assets/cases/atl-dc-007956-25/2025-10-27_Court-Order.pdf"
-  - label: "Discovery Packet — Interrogatories, Notice to Produce, and Admissions"
-    date: 2025-10-27
-    path: "/assets/cases/atl-dc-007956-25/2025-10-27_Discovery-Requests.pdf"
-  - label: "Answer to Counterclaim & Affirmative Defenses (NJTA)"
-    date: 2025-11-05
-    path: "/assets/cases/atl-dc-007956-25/2025-11-05_Response-to-Counterclaim.pdf"
-  - label: "Congressman Gottheimer Letter re TransCore Contract"
-    date: 2025-03-28
-    path: "/assets/cases/atl-dc-007956-25/2025-03-28_Gottheimer-Letter.pdf"
-  - label: "ADA Accommodation Request and Deadline Inquiry"
-    date: 2025-11-03
-    path: "/assets/cases/atl-dc-007956-25/2025-11-03_ADA-Correspondence.pdf"
+assets_path: "/assets/cases/atl-dc-007956-25/"
+
+filings:
+  - date: 2025-03-28
+    label: "Congressman Gottheimer Letter re TransCore Contract"
+    file: "2025-03-28_Gottheimer-Letter.pdf"
+
+  - date: 2025-08-19
+    label: "Summons"
+    file: "2025-08-19_Summons.pdf"
+
+  - date: 2025-08-19
+    label: "Plaintiff's Complaint"
+    file: "2025-08-19_Complaint.pdf"
+
+  - date: 2025-09-03
+    label: "Defendant's First Appearance"
+    file: "2025-09-03_Answer-FirstAppearance.pdf"
+
+  - date: 2025-10-08
+    label: "Amended Answer & Counterclaim"
+    file: "2025-10-08_Counterclaim.pdf"
+
+  - date: 2025-10-08
+    label: "Proposed Order for Counterclaim Relief"
+    file: "2025-10-08_Proposed-Order.pdf"
+
+  - date: 2025-10-27
+    label: "Court Order (Discovery Schedule)"
+    file: "2025-10-27_Court-Order.pdf"
+
+  - date: 2025-10-27
+    label: "Discovery Packet — Interrogatories, Notice to Produce, and Admissions"
+    file: "2025-10-27_Discovery-Requests.pdf"
+
+  - date: 2025-11-03
+    label: "ADA Accommodation Request and Deadline Inquiry"
+    file: "2025-11-03_ADA-Correspondence.pdf"
+
+  - date: 2025-11-05
+    label: "Answer to Counterclaim & Affirmative Defenses (NJTA)"
+    file: "2025-11-05_Response-to-Counterclaim.pdf"
 ---
 
 ## Plain-English Overview
 
 **Plaintiff's claim**  
-The NJTA alleges that between 2016 and 2024, vehicles registered to Devon Barber
+The NJTA alleges that between 2016 and 2024, vehicles registered to Devon Tyler Barber
 passed through toll facilities without payment, accruing $204 in tolls and $4,905 in
 administrative fees. It seeks judgment for $5,109.45, plus interest and costs.
 
@@ -113,13 +132,15 @@ authority, barring punitive or ultra vires fees, and reaffirming fiduciary dutie
 the traveling public.
 
 **Procedural status**  
-On October 27 2025, Judge Marcolongo placed the matter on Track 1 and authorized
+Earlier collection efforts were docketed as ATL-DC-007956. The current docket,
+ATL-DC-007956-25, continues the same dispute and is treated here as one consolidated
+case. On October 27, 2025, Judge Marcolongo placed the matter on Track 1 and authorized
 limited discovery. Barber served interrogatories and document requests addressing
 NJTA's E-ZPass contract with TransCore, foreign-ownership and data-privacy issues
-highlighted in Congressman Josh Gottheimer's March 28 2025 letter, and ADA
-accessibility procedures. On November 3 2025, Barber filed an ADA accommodation
-request to confirm scheduling and docketing accuracy. On November 5 2025, NJTA
-filed an Answer to Counterclaim and Affirmative Defenses.
+highlighted in Congressman Josh Gottheimer's March 28, 2025 letter, and ADA
+accessibility procedures. On November 3, 2025, Barber filed an ADA accommodation
+request to confirm scheduling and docketing accuracy. On November 5, 2025, NJTA filed
+an Answer to Counterclaim and Affirmative Defenses.
 
 ---
 
@@ -128,8 +149,8 @@ filed an Answer to Counterclaim and Affirmative Defenses.
 | Date | Event | Notes / Linked Docs |
 |------|--------|---------------------|
 | **2025-03-28** | Congressman Gottheimer Letter to NJTA Chair O'Connor | Raises national-security and data-privacy concerns about TransCore's foreign ownership — forms part of the basis for Barber's discovery. [[PDF]](/assets/cases/atl-dc-007956-25/2025-03-28_Gottheimer-Letter.pdf) |
-| **2025-08-19** | Complaint Filed by NJTA | Seeks $5,109.45 for tolls and administrative fees. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Complaint.pdf) |
-| **2025-08-19** | Summons Issued | ATL-DC-007956-25; service to Barber. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Summons.pdf) |
+| **2025-08-19** | Complaint Filed by NJTA (ATL-DC-007956-25) | Seeks $5,109.45 for tolls and administrative fees. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Complaint.pdf) |
+| **2025-08-19** | Summons Issued | Service to Barber. [[PDF]](/assets/cases/atl-dc-007956-25/2025-08-19_Summons.pdf) |
 | **2025-09-03** | First Appearance Filed | Confirms participation and intent to defend. [[PDF]](/assets/cases/atl-dc-007956-25/2025-09-03_Answer-FirstAppearance.pdf) |
 | **2025-10-08** | Amended Answer & Counterclaim Filed | Raises constitutional and public-trust arguments. [[PDF]](/assets/cases/atl-dc-007956-25/2025-10-08_Counterclaim.pdf) |
 | **2025-10-08** | Proposed Order for Relief Submitted | Requests dismissal, declaratory findings, and equitable relief. [[PDF]](/assets/cases/atl-dc-007956-25/2025-10-08_Proposed-Order.pdf) |
