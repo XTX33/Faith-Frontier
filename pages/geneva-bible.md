@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "1599 Geneva Bible Scroll"
-permalink: /archives/geneva-bible-scroll/
+permalink: /archives/geneva-bible/
 description: "Prophecy, Gospel, and Christ’s Kingship — 26 landmark verses from the 1599 Geneva Bible presented in scroll format."
 ---
 
