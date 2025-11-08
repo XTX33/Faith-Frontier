@@ -6,7 +6,7 @@ title: "Faith Frontier Ecclesiastical Trust"
 <section class="hero">
   <div class="hero-inner">
     <p class="hero-kicker">Faith Frontier Ecclesiastical Trust</p>
-    <h1>Where contested lives become accountable record.</h1>
+    <h1>Turning lived injustice into accountable reform.</h1>
     <p class="hero-lead">
       An open ledger standing at the crossroads of <strong>law, faith, and public stewardship</strong> —
       translating New Jersey case files, wage and benefits fights, prolonged detention, and
