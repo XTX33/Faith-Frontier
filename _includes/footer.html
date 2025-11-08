@@ -6,10 +6,11 @@
     </p>
 
     <p class="footer-links">
-  <a href="{{ '/license/' | relative_url }}">License & Rights</a> •
-  <a href="{{ '/about/' | relative_url }}">About</a> •
-  <a href="{{ '/contact/' | relative_url }}">Contact</a>
-</p>
+      {% for item in site.data.navigation.footer %}
+        {% unless forloop.first %}•{% endunless %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endfor %}
+    </p>
 
     <p class="footer-credit text-muted">
       Stewardship • Transparency • Reform • Faith<br>

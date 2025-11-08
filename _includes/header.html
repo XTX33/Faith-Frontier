@@ -32,53 +32,13 @@
   <!-- Primary navigation -->
   <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
     <ul>
+      {% for item in site.data.navigation.primary %}
       <li>
-        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>
-          Home
+        <a href="{{ item.url | relative_url }}" {% if page.url == item.url or page.url contains item.url and item.url != '/' %}aria-current="page"{% endif %}>
+          {{ item.title }}
         </a>
       </li>
-
-      <li>
-        <a href="{{ '/cases/' | relative_url }}" {% if page.url contains '/cases/' %}aria-current="page"{% endif %}>
-          Cases &amp; Dockets
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/revelations/' | relative_url }}" {% if page.url contains '/revelations/' %}aria-current="page"{% endif %}>
-          Revelations
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/timeline/' | relative_url }}" {% if page.url contains '/timeline/' %}aria-current="page"{% endif %}>
-          Timeline
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/faith/' | relative_url }}" {% if page.url contains '/faith/' %}aria-current="page"{% endif %}>
-          Faith &amp; Essays
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/archives/' | relative_url }}" {% if page.url contains '/archives/' %}aria-current="page"{% endif %}>
-          Archives
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/trust/' | relative_url }}" {% if page.url contains '/trust/' %}aria-current="page"{% endif %}>
-          Trust Docs
-        </a>
-      </li>
-
-      <li>
-        <a href="{{ '/about/' | relative_url }}" {% if page.url contains '/about/' %}aria-current="page"{% endif %}>
-          About
-        </a>
-      </li>
+      {% endfor %}
     </ul>
   </nav>
 </header>
