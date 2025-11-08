@@ -11,8 +11,13 @@ title: "Case Records"
   </p>
 </section>
 
-{% assign featured_cases = site.cases | where: "featured", true %}
-{% assign normal_cases  = site.cases | where_exp: "c", "c.featured != true" %}
+{% comment %}
+Only show cases that are not explicitly hidden (listed: false).
+Then split into featured and non-featured.
+{% endcomment %}
+{% assign visible_cases = site.cases | where_exp: "c", "c.listed != false" %}
+{% assign featured_cases = visible_cases | where: "featured", true %}
+{% assign normal_cases  = visible_cases | where_exp: "c", "c.featured != true" %}
 
 {% if featured_cases.size > 0 %}
 <section class="case-list" aria-label="Featured proceedings">
@@ -24,7 +29,7 @@ title: "Case Records"
         {{ case.docket }}{% if case.status %} · {{ case.status }}{% endif %}
       </p>
     </header>
-    <p>{{ case.summary | truncatewords: 40 }}</p>
+    <p>{{ case.summary | default: "Summary forthcoming." | truncatewords: 40 }}</p>
   </article>
   {% endfor %}
 </section>
@@ -39,7 +44,7 @@ title: "Case Records"
         {{ case.docket }}{% if case.status %} · {{ case.status }}{% endif %}
       </p>
     </header>
-    <p>{{ case.summary | truncatewords: 40 }}</p>
+    <p>{{ case.summary | default: "Summary forthcoming." | truncatewords: 40 }}</p>
   </article>
   {% endfor %}
 </section>
