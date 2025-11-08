@@ -24,15 +24,48 @@
   color: #f9fafb !important;
 }
 
-.site-logo img {
-  height: 48px;
-  width: auto;
-  display: block;
+/* Logo Text with Gradient */
+.logo-text {
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.logo-gradient {
+  background: linear-gradient(135deg, #f9fafb 0%, #60a5fa 40%, #c084fc 70%, #f9fafb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  display: inline-block;
+  position: relative;
+}
+
+/* Add a subtle text shadow for better readability */
+.logo-text::before {
+  content: attr(aria-label);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  text-shadow: 0 2px 8px rgba(96, 165, 250, 0.3);
+  opacity: 0;
+}
+
+.logo-text:hover .logo-gradient {
+  background: linear-gradient(135deg, #ffffff 0%, #93c5fd 40%, #d8b4fe 70%, #ffffff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
 }
 
 @media (max-width: 768px) {
-  .site-logo img {
-    height: 40px;
+  .logo-text {
+    font-size: 1.25rem;
   }
 }
 
