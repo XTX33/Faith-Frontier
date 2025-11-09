@@ -5,14 +5,14 @@ title: "Faith Frontier Ecclesiastical Trust"
 
 <section class="hero">
   <div class="hero-inner">
-    <figure class="hero-logo-shell">
+    <div class="hero-logo-shell">
       <img
         class="hero-logo"
         src="{{ '/assets/img/logo.png' | relative_url }}"
-        alt="Faith Frontier"
+        alt="Faith Frontier Ecclesiastical Trust logo"
         loading="lazy"
       />
-    </figure>
+    </div>
     <p class="hero-kicker">Faith Frontier Ecclesiastical Trust</p>
     <h1>Where contested lives become accountable record.</h1>
     <p class="hero-lead">
