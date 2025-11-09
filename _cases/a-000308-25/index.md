@@ -1,6 +1,7 @@
 ---
 layout: case
 title: "Barber v. New Jersey Turnpike Authority"
+aliases: ["NJTA v Barber"]
 docket: "A-000308-25"
 court: "Superior Court of New Jersey, Appellate Division"
 case_type: "Civil Appeal"
@@ -24,17 +25,16 @@ summary: >
 
 | Date | Title | Description |
 |------|--------|-------------|
-| 2025-10-29 | [Notice of Deficiencies and Required Corrections (PDF)](/assets/cases/a-000308-25/2025-10-29_notice-of-deficiencies-and-required-corrections.pdf) | Initial notice identifying missing documents or procedural corrections required to perfect the appeal. |
-| 2025-10-29 | [Order Denying Late Appeal (Signed)](/assets/cases/a-000308-25/2025-10-29_order-denying-late-appeal-signed.pdf) | Appellate Division order denying acceptance of late notice of appeal. |
+| 2025-10-29 | [Notice of Deficiencies and Required Corrections (PDF)](/assets/cases/a-000308-25/2025-10-29_notice-of-deficiencies-and-required-corrections.pdf) | Initial notice identifying missin[...] 
+| 2025-10-29 | [Order Denying Late Appeal (Signed)](/assets/cases/a-000308-25/2025-10-29_order-denying-late-appeal-signed.pdf) | Appellate Division order denying acceptance of late notice of appea[...] 
 | 2025-10-29 | [Order Granting Fee Waiver](/assets/cases/a-000308-25/2025-10-29_order-granting-fee-waiver.pdf) | Order approving appellant’s application for filing fee waiver. |
-| 2025-11-05 | [Motion for Reconsideration and Reinstatement](/assets/cases/a-000308-25/2025-11-05_motion-for-reconsideration-and-reinstatement.pdf) | Motion filed by appellant seeking reconsideration and reinstatement of appeal following deficiency correction. |
+| 2025-11-05 | [Motion for Reconsideration and Reinstatement](/assets/cases/a-000308-25/2025-11-05_motion-for-reconsideration-and-reinstatement.pdf) | Motion filed by appellant seeking reconsidera[...] 
 
 ---
 
 ### Case Summary
 
-This appeal arises from administrative and civil proceedings against the New Jersey Turnpike Authority. Following an initial denial of the late notice of appeal, the appellant moved for reconsideration, arguing substantial compliance and excusable neglect under Rule 2:4-4(a). Fee waiver was granted, and the case remains pending review by the Appellate Division.
+This appeal arises from administrative and civil proceedings against the New Jersey Turnpike Authority. Following an initial denial of the late notice of appeal, the appellant moved for reconsider[...] 
 
 ---
-
 _Last updated: {{ "now" | date: "%Y-%m-%d" }}_

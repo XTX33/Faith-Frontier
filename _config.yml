@@ -19,9 +19,8 @@ permalink: "/:title/"
 collections:
   cases:
     output: true
-    # Use :path so folder-based cases like _cases/atl-l-002794-25/index.md
-    # become /cases/atl-l-002794-25/
-    permalink: "/cases/:path/"
+    # Use :name to ensure clean URLs, e.g., /cases/atl-l-002794-25/
+    permalink: "/cases/:name/"
 
   essays:
     output: true
@@ -84,4 +83,3 @@ exclude:
   - webpack.config.js
   - scripts
   - .github
-
