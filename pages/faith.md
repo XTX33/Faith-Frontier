@@ -55,9 +55,9 @@ Each piece is written as both testimony and study: personal, doctrinal, and prac
     <h2>Constitution as Covenant</h2>
     <p> These records explore the nation’s founding principles not as distant history, but as active duties of stewardship and accountability in public life.</p>
     <p>
-      <a class="btn-ghost" href="{{ '/constitution-covenant/' | relative_url }}">
-        Explore the Constitutional Essay →
-      </a>
+     <a class="btn-ghost" href="{{ '/pages/constitution-covenant.md' | relative_url }}">
+  Explore the Constitutional Essay →
+</a>
     </p>
   </article>
 </section>
