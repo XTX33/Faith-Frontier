@@ -62,7 +62,7 @@ title: "Faith Frontier Ecclesiastical Trust"
       <ul class="feature-list">
         <li>Genesis, prophets, and Gospel texts placed beside case law and court rules.</li>
         <li>Essays on consent, covenant, stewardship, and unequal yokes in modern systems.</li>
-        <li>How anger, grief, repentance, and hope cohabit with litigation strategy.</li>
+        <li>How anger, grief, repentance, and hope coexist with litigation strategy.</li>
       </ul>
       <a class="card-link" href="{{ '/faith/' | relative_url }}">Read Essays &amp; Faith Notes →</a>
     </article>
