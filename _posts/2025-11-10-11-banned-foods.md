@@ -1,8 +1,15 @@
 ---
-layout: default
+layout: post
 title: "11 Banned Foods Americans Should Stop Eating (Repost)"
+date: 2025-11-10
 permalink: /archives/11-banned-foods/
 description: "Educational repost of Food Revolution Network’s article on 11 banned or controversial ingredients still used in the U.S. food supply."
+categories: [archives, public-health]
+tags:
+  - food safety
+  - public health
+  - banned ingredients
+  - repost
 ---
 
 <section class="section-intro">
