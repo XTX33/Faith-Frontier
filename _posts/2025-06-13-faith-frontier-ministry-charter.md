@@ -1,23 +1,33 @@
 ---
-layout: default
+layout: post
 title: "Faith Frontier Ministry – Organization Charter"
-permalink: /ministry-charter/
-description: "Unincorporated church / ministry declaration, bylaws, and worship schedule for Faith Frontier Ministry under IRC §508(c)(1)(A) and §501(c)(3)."
+date: 2025-06-13
+permalink: /posts/ministry-charter/
+description: "Unincorporated church and ministry declaration, bylaws, and worship schedule for Faith Frontier Ministry under IRC §508(c)(1)(A) and §501(c)(3)."
+categories: [faith, governance, ministry]
+tags:
+  - ecclesiastical charter
+  - 508c1a
+  - ministry bylaws
+  - faith frontier
+  - unincorporated church
 ---
 
 <section class="section container">
   <header class="page-header">
     <h1>Faith Frontier Ministry</h1>
     <p class="subtitle">Unincorporated Church / Ministry Organization Charter</p>
-    <p><strong>Date of organization:</strong> ___________________<br>
-       <strong>Seat:</strong> Atlantic County, New Jersey<br>
-       <strong>EIN:</strong> (to be obtained separately)</p>
+    <p>
+      <strong>Date of organization:</strong> ___________________<br>
+      <strong>Seat:</strong> Atlantic County, New Jersey<br>
+      <strong>EIN:</strong> (to be obtained separately)
+    </p>
   </header>
 
   <hr>
 
   <section aria-labelledby="purpose-heading">
-    <h2 id="purpose-heading">Article I &mdash; Purpose</h2>
+    <h2 id="purpose-heading">Article I — Purpose</h2>
     <p>
       Faith Frontier Ministry (“the Ministry”) exists to worship God, teach Scripture, serve creation through works of mercy,
       and steward land for the good of people and animals. Activities include public and private worship, pastoral counseling,
@@ -26,7 +36,7 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
   </section>
 
   <section aria-labelledby="faith-heading">
-    <h2 id="faith-heading">Article II &mdash; Faith and Doctrine</h2>
+    <h2 id="faith-heading">Article II — Faith and Doctrine</h2>
     <ol>
       <li>We affirm one Creator, revealed through the wisdom of Scripture and the witness of conscience.</li>
       <li>We receive the Bible as inspired and instructive, interpreting it through love of God and neighbor.</li>
@@ -37,33 +47,33 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
   </section>
 
   <section aria-labelledby="organization-heading">
-    <h2 id="organization-heading">Article III &mdash; Organization</h2>
+    <h2 id="organization-heading">Article III — Organization</h2>
     <ol>
-      <li><strong>Elders / Trustees.</strong> The Ministry is overseen by elders, initially including Devon Tyler Barber and such others as the fellowship shall appoint by unanimous consent.</li>
-      <li><strong>Officers.</strong> Officers include:
+      <li><strong>Elders / Trustees:</strong> The Ministry is overseen by elders, initially including Devon Tyler Barber and such others as the fellowship shall appoint by unanimous consent.</li>
+      <li><strong>Officers:</strong> Officers include:
         <ul>
-          <li><strong>Moderator</strong> &mdash; presides over meetings and general spiritual direction.</li>
-          <li><strong>Treasurer</strong> &mdash; records gifts, offerings, and expenditures.</li>
-          <li><strong>Recorder</strong> &mdash; keeps minutes and official correspondence.</li>
+          <li><strong>Moderator</strong> — presides over meetings and general spiritual direction.</li>
+          <li><strong>Treasurer</strong> — records gifts, offerings, and expenditures.</li>
+          <li><strong>Recorder</strong> — keeps minutes and official correspondence.</li>
         </ul>
       </li>
-      <li><strong>Membership.</strong> Any person who shares the Statement of Faith and participates in worship or service at least quarterly may be listed as a member.</li>
-      <li><strong>Decision Making.</strong> Matters of faith are decided by consensus; administrative matters by simple majority of members present at a duly called meeting.</li>
-      <li><strong>Property.</strong> The Faith Frontier Ecclesiastical Trust is the designated holding body for all land, buildings, tools, and funds dedicated to ministry purposes.</li>
+      <li><strong>Membership:</strong> Any person who shares the Statement of Faith and participates in worship or service at least quarterly may be listed as a member.</li>
+      <li><strong>Decision Making:</strong> Matters of faith are decided by consensus; administrative matters by simple majority of members present at a duly called meeting.</li>
+      <li><strong>Property:</strong> The Faith Frontier Ecclesiastical Trust is the designated holding body for all land, buildings, tools, and funds dedicated to ministry purposes.</li>
     </ol>
   </section>
 
   <section aria-labelledby="worship-heading">
-    <h2 id="worship-heading">Article IV &mdash; Meetings and Worship Schedule</h2>
+    <h2 id="worship-heading">Article IV — Meetings and Worship Schedule</h2>
     <p>The Ministry maintains a regular pattern of worship, study, and seasonal gathering, including:</p>
     <ul>
-      <li><strong>Weekly Worship:</strong> Each Sunday morning, 10:00 a.m. &ndash; 11:00 a.m. (location or online as announced).</li>
-      <li><strong>Mid-week Study / Fellowship:</strong> Wednesdays, 6:00 p.m. &ndash; 7:30 p.m.</li>
-      <li><strong>Seasonal Gatherings:</strong> 
+      <li><strong>Weekly Worship:</strong> Sundays, 10:00 a.m. – 11:00 a.m. (location or online as announced)</li>
+      <li><strong>Mid-week Study / Fellowship:</strong> Wednesdays, 6:00 p.m. – 7:30 p.m.</li>
+      <li><strong>Seasonal Gatherings:</strong>
         <ul>
-          <li><em>Feast of First Fruits</em> (Spring);</li>
-          <li><em>Day of Restoration</em> (Autumn);</li>
-          <li><em>Founders’ Commemoration</em> (June 13).</li>
+          <li><em>Feast of First Fruits</em> (Spring)</li>
+          <li><em>Day of Restoration</em> (Autumn)</li>
+          <li><em>Founders’ Commemoration</em> (June 13)</li>
         </ul>
       </li>
     </ul>
@@ -71,7 +81,7 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
   </section>
 
   <section aria-labelledby="fiscal-heading">
-    <h2 id="fiscal-heading">Article V &mdash; Fiscal Integrity</h2>
+    <h2 id="fiscal-heading">Article V — Fiscal Integrity</h2>
     <ol>
       <li>All gifts, tithes, and donations are voluntary.</li>
       <li>Funds are used solely for ministry, sanctuary upkeep, aid to persons or animals in need, and reasonable stipends for ministers or workers.</li>
@@ -81,7 +91,7 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
   </section>
 
   <section aria-labelledby="dissolution-heading">
-    <h2 id="dissolution-heading">Article VI &mdash; Dissolution</h2>
+    <h2 id="dissolution-heading">Article VI — Dissolution</h2>
     <p>
       If the Ministry ceases to operate as an active fellowship, all remaining assets shall pass to another religious or charitable body
       with substantially similar purposes, preferably one recognized under §501(c)(3) of the Internal Revenue Code, as determined by the elders.
@@ -89,7 +99,7 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
   </section>
 
   <section aria-labelledby="recognition-heading">
-    <h2 id="recognition-heading">Article VII &mdash; Recognition Under §508(c)(1)(A)</h2>
+    <h2 id="recognition-heading">Article VII — Recognition Under §508(c)(1)(A)</h2>
     <p>
       The Ministry is organized and shall be operated exclusively for religious purposes within the meaning of §501(c)(3) of the Internal Revenue Code
       and is a church or association of churches described in §508(c)(1)(A). It shall operate as an unincorporated church body,
@@ -129,26 +139,9 @@ description: "Unincorporated church / ministry declaration, bylaws, and worship 
         <tr>
           <td>Devon Tyler Barber</td>
           <td>Founder / Moderator</td>
-          <td>___________________</td>
-          <td>______________________________</td>
-        </tr>
-        <tr>
-          <td>[Co-Elder Name]</td>
-          <td>Treasurer</td>
-          <td>___________________</td>
-          <td>______________________________</td>
-        </tr>
-        <tr>
-          <td>[Co-Elder Name]</td>
-          <td>Recorder</td>
-          <td>___________________</td>
-          <td>______________________________</td>
         </tr>
       </tbody>
     </table>
-
-    <p style="margin-top:1.5rem;">
-      <strong>Witness / Notary (optional):</strong> _______________________________________________
     </p>
   </section>
 </section>
