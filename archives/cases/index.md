@@ -14,14 +14,13 @@ to the main <a href="{{ '/cases/' | relative_url }}">cases page</a>.
 
 <h2>Federal Civil Rights Cases</h2>
 <ul>
-  <li><a href="{{ '/archives/cases/usdj-1-22-cv-06206.html' | relative_url }}">1:22-cv-06206 - Barber v. Hardemon et al</a> – Federal § 1983 civil rights action (closed, motion to reopen pending)</li>
-  <li><a href="{{ '/archives/cases/usdj-1-25-cv-15641.html' | relative_url }}">1:25-cv-15641 - Barber v. Boyd et al</a> – Federal § 1983 civil rights action (active)</li>
+  <li><a href="{{ '/archives/cases/usdj-1-22-cv-06206/' | relative_url }}">1:22-cv-06206 - Barber v. Hardemon et al</a> – Federal § 1983 civil rights action (closed, motion to reopen pending)</li>
+  <li><a href="{{ '/archives/cases/usdj-1-25-cv-15641/' | relative_url }}">1:25-cv-15641 - Barber v. Boyd et al</a> – Federal § 1983 civil rights action (active)</li>
 </ul>
 
 <h2>Administrative & Motor Vehicle Cases</h2>
 <ul>
-  <li><a href="{{ '/archives/cases/njmvc-v-barber.html' | relative_url }}">NJMVC v. Barber</a> – Motor Vehicle Commission matter</li>
-  <li><a href="{{ '/archives/cases/atl-dc-007956-25.html' | relative_url }}">ATL-DC-007956-25</a> – <em>(Note: This case is now documented as <a href="{{ '/cases/njta-v-barber/' | relative_url }}">NJTA v. Barber</a> in the main cases section)</em></li>
+  <li><a href="{{ '/archives/cases/njmvc-v-barber/' | relative_url }}">NJMVC v. Barber</a> – Motor Vehicle Commission matter</li>
 </ul>
 
 <p class="text-muted">
