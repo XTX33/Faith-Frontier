@@ -1,7 +1,16 @@
 ---
-layout: default
+layout: post
 title: "Thomas Becket Religious Liberty Proclamation (2020)"
-permalink: /archives/thomas-becket-proclamation/
+date: 2020-12-28
+permalink: /posts/thomas-becket-proclamation/
+description: "Full text of the December 28, 2020 presidential proclamation commemorating Saint Thomas Becket and affirming freedom of religion as a core American inheritance."
+categories: [faith, liberty, archives]
+tags:
+  - Thomas Becket
+  - religious freedom
+  - proclamation
+  - history
+  - White House
 ---
 
 <section class="section-intro">
