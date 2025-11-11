@@ -1,0 +1,29 @@
+.parchment {
+    background-color: #f7f1e1;
+    color: #5b3e27;
+    font-family: 'Old English', serif;
+    padding: 20px;
+    border: 1px solid #a68c6e;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.parchment h1, .parchment h2, .parchment h3 {
+    color: #4b3024;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.parchment p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.parchment a {
+    color: #5d6a36;
+    text-decoration: underline;
+}
+
+.parchment a:hover {
+    color: #3a4e23;
+}
