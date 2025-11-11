@@ -1,7 +1,8 @@
-title: "Faith Frontier Ecclesiastical Trust"
-description: "A public documentation portal uniting law, faith, and transparency, with New Jersey case records, public-trust analysis, and commentary."
-tagline: "Law, conscience, and stewardship."
+# Faith Frontier Ecclesiastical Trust - Jekyll Site Configuration
 
+title: "Faith Frontier Ecclesiastical Trust"
+description: "Research and documentation at the intersection of law, faith, and public record—curating New Jersey case files, essays, and public-trust analysis."
+tagline: "Law, conscience, and stewardship in daylight."
 url: "https://faithfrontier.org"
 baseurl: ""
 lang: "en"
@@ -13,43 +14,45 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
-# Default permalink style for regular pages/posts
 permalink: "/:title/"
 
 collections:
   cases:
     output: true
-    # Use :name to ensure clean URLs, e.g., /cases/atl-l-002794-25/
     permalink: "/cases/:name/"
+    # Source: _cases/
 
   essays:
     output: true
-    # Essays collection still maps to /faith/<slug>/
     permalink: "/faith/:name/"
+    # Source: _essays/
+
+  docs:
+    output: true
+    permalink: "/docs/:name/"
+    # Source: _docs/
 
 defaults:
-  # All documents in the "cases" collection use the "case" layout by default
   - scope:
       path: ""
       type: "cases"
     values:
       layout: "case"
-
-  # All documents in the "essays" collection use the "essay" layout by default
   - scope:
       path: ""
       type: "essays"
     values:
       layout: "essay"
-
-  # Regular pages (about, court, public-trust, etc.) use "default" layout
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "doc"
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
-
-  # Blog-style posts, if you ever use them, use "post" layout
   - scope:
       path: ""
       type: "posts"
@@ -58,11 +61,11 @@ defaults:
 
 company:
   name: "Tillerstead LLC"
-  hic: "13VH10808800"  
+  hic: "13VH10808800"
   address_line: "325 E. Jimmie Leeds Rd., Suite 7, #333"
   address_locality: "Galloway"
   address_region: "New Jersey"
-  postal_code: "[08205]"
+  postal_code: "08205"
   phone: "(609) 665-9350"
   email: "info@Tillerstead.com"
 
@@ -77,9 +80,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - config.yml.txt
   - package.json
   - package-lock.json
   - webpack.config.js
   - scripts
   - .github
+  - archives
+  - assets
+
+# Additional config for clean structure:
+# Keep all content in _cases, _essays, _docs for Jekyll collections
+# 'assets' for static files/images, 'cases' and 'pages' can be used for exports or static HTML if needed
