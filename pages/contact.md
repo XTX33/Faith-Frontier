@@ -50,6 +50,6 @@ description: "Contact information and correspondence guidelines for Faith Fronti
   </p>
 
   <p class="text-muted mt-8">
-    <em>"Write with clarity. Speak with conscience. Act with integrity."</em>
+    <em>"Write with clarity. Speak with conscience. Act with mercy."</em>
   </p>
 </section>
